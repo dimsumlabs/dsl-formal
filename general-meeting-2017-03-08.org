@@ -1,0 +1,141 @@
+1. Election of meeting chairman
+   Adam elected unanimously
+
+2. Election of meeting secretary
+   Adam elected unanimously
+
+3. Election of 2 attestant
+   David & Nicolas
+
+6. Determining voting rights
+   Nicolas, Tom, Brad, Adam, David, Hamish are present
+
+   Liuk since point 2
+   Michelle since point 2
+   Charles since item 4 to item 10
+
+7. Annual report of operations and economy over past year
+   Board reports what has gone on day to day (roughly)
+   Also reports on what have been done organisationally
+
+8. Election of new board
+    Minumum board should consist of:
+    *** One director
+    *** One company secretary
+    Board can also have more board members without special titles
+
+9. Extra items
+
+    1. Membership dues
+       Dues are per calendar month
+       Membership dues stay at 500 (200 for students)
+
+       What about gap months?
+       To be discussed on next meeting
+
+    2. Space
+       2.1 Orphaned stuff
+           Give people one month for fetching their things,
+           then we contact them and they have 1 month more to get their things
+       2.2 Number of boxes
+           Max 1 box per person
+       2.3 Hygiene/Cleaning
+           Buy toilet brush (hamish)
+
+           Roster to clean toilet and space once per week
+
+    3. Rent, Bills
+       Adam & Nicolas are responsible for getting sure bills are paid on time
+       We could improve accounting software to warn us that bills are due soon
+
+    4. HKMake
+       4.1 Decide on a minimum of two directors
+           Tom is against having two directors
+       4.2 Election of directors
+           David is elected as director
+
+    5. Design Trust Grant information
+       Information point
+
+       Michelle should send status updates
+
+    6. Slack/irc
+       Keep bridge between slack and irc
+       Keep bridging to #general, #general is considered a public channel
+
+       Slack should be members only
+       #general is public, rest is members only
+
+       No slack only memberships
+
+    7. Purging of github/slack members
+       7.1 Github access should be members only
+       7.2 Purging of members
+       Tom can purge for slack
+       Adam can purge github membership
+
+    8. Drink sales / MCU
+       Separate cashbox economies
+       Adam takes care of restocking
+       Items sold:
+           Canned/bottled drinks
+
+    9. Social networking
+       Facebook
+         Hackjam
+         Dimsumlabs
+
+         Nicolas, Lio and Liuk are responsible for facebook
+
+       Meetup
+         Syed has volunteered to keep paying for meetup
+         Syed is admin on meetup (responsible)
+
+       Google plus
+         Nicolas is responsible for G+
+
+       Google calendar
+         Tom has access
+
+       Twitter
+         Nicolas follows up emails
+
+       Email (hello@)
+         Nicolas follows up emails
+
+    10. Hosting of dimsumlabs.com
+        Hosting of dimsumlabs.com moved to Nicolas hosting instead of Manolis
+
+    11. Future fairs and conference participations
+        Going forward events must be agreed upon by the directors or a general meeting
+        Events should be shared through appropriate channels
+
+    12. Expand outreach to universities
+        Approval is done according to agenda item 11
+
+    13. Meetup.com
+        Redundant item
+
+    14. Trolling issues
+        Largely solved
+
+    15. Alumni memberships
+        Everyone pays the same
+
+    16. Becoming part of the Chaos Computer Club (Changing DSL into CCCHK)
+        Vote roughly 50/50 (3 against 4)
+        Proposal needs more work, bring it up again at next general meeting with more information
+
+    17. Long term future of DSL/HKMake Ltd
+        We need to further investigate what company structures are viable in the future
+        Bring up again next general meeting
+
+    18. Process for future meetings
+        Put articles of association on github
+        Next general meeting shall be held on June 7 19:00
+        General meeting should always be scheduled by previous meeting
+
+        Agenda is finalised 7 days before meeting
+
+    19. Code of conduct
+        Bring up again next meeting, not prepared
