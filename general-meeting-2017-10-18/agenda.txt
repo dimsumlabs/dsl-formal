@@ -1,0 +1,67 @@
+This is the interim document for meeting agenda items.  There is no
+significance to the ordering - Each item has been added in the order of
+its arrival.
+
+Carried over from previous meeting:
+
+1. What about gap months? To be discussed on next meeting
+2. Becoming part of the Chaos Computer Club - Proposal needs more work,
+   bring it up again at next general meeting with more information
+3. Long term future of DSL/HKMake Ltd We need to further investigate
+   what company structures are viable in the future Bring up again next
+   general meeting
+4. Code of conduct Bring up again next meeting, not prepared
+
+New agenda items:
+
+5. mailing list site has expired ssl cert (proposed by: hamish)
+
+Hopefully it is self-evident that we should not be using any expired
+SSL certificates on websites.
+
+6. Directors needed (proposed by: hamish)
+
+Since we currently have no standing directors, we need to elect some.
+The Hong Kong companies regulations seems to require that there are at
+least two directors, but that could allow a deadlock.  I suggest that
+we have a minimum of three directors - and that we elect none until we
+have three acceptable candidates.  Since - by law - we cannot continue
+without directors, this is a key part of legally continuing to operate
+the space.
+
+7. Are the membership dues too low? (proposed by: hamish)
+
+Looking at our current accounts, we can calculate our normal outgoings and
+incomings.  This data can be used to propose a minimum number of members
+or a rise in the membership cost.  I have not done the calculation yet,
+but will present the needed numbers and our actual numbers for consideration.
+(I hope to update this paragraph with some numbers before final publishing)
+
+8. Update on the Design Trust Grant (proposed by: nicolas)
+
+as far as I know we passed the deadline. So what is the status on this
+project?
+
+9. Slack: every member must have an account on Slack. (proposed by: nicolas)
+
+It is easier to maintain than the mailing list. Members should not be
+required to install it on their phone.
+
+10. Emergency contacts (proposed by: nicolas)
+
+We should have a list of the people who have the physical key and
+their updated phone number / emails to contact in case of emergency
+
+11. We will discuss the current events leading up to Friday including
+codes of conduct in general and how to apply them (proposed by: nicolas)
+
+12. All Members should be contactable by the space (proposed by: hamish)
+
+We have a policy for orphaned items left in the space that includes
+contacting the owner and giving them one month to remove it.  This
+means that the space needs a database of member contact details.
+I suggest getting an email address from each person.  Possibly this
+could then be used for automatically joining them to the members
+list.  This should also be used to send dues payment reminders.
+
+
