@@ -373,7 +373,7 @@ other gender.
 
 23. No member shall be entitled to vote at any general meeting unless
     all moneys payable by him to the Association in his capacity as
-    member, and which have been outstanding for more than I month after
+    member, and which have been outstanding for more than 1 month after
     they fell due for payment, have been paid.
 
 24. On a poll votes may be given either personally or by proxy.
@@ -640,7 +640,7 @@ otherwise instructed, the proxy will vote as he sees fit.
     notwithstanding that it be afterwards discovered that there was some
     defect in the appointment of any such director or person acting
     as aforesaid, or that they or any of them were disqualified, be
-    as valid as if e~ery such person had been duly appointed and was
+    as valid as if every such person had been duly appointed and was
     qualified to be a director.
 
 57. A resolution in writing, signed by all the directors for the time
