@@ -136,21 +136,21 @@ Witness to the above signatures,
 
 1.  In these Articles, save where the context otherwise requires:-
 
-    a.  "Ordinance" (FIXME條例) means the Companies Ordinance, Chapter 32
+    a.  "Ordinance" (本條例) means the Companies Ordinance, Chapter 32
         of the laws of Hong Kong Special Administrative Region, and any
         modification thereto;
         
     b.	"The Association" means the above-named Company, established
         for the purposes expressed in the Memorandum of Association;
     
-    c.  "These Articles*' means these Articles of Association, and the
+    c.  "These Articles" means these Articles of Association, and the
         regulations of the Association from time to time in force;
 
     d.  "The Board" means the Board of Directors of the Association;
 
-    e.  "Seal" (FIXME) means the Common Seal of the Association;
+    e.  "Seal" (印章) means the Common Seal of the Association;
 
-    f.  "Secretary" (FIXME) means any person appointed to perform the
+    f.  "Secretary" (秘書) means any person appointed to perform the
         duties of the secretary of the Association.
 
 Expressions referring to writing shall, unless the contrary intention
