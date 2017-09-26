@@ -58,8 +58,8 @@ education. Suitable for the web site and printed material.
 > concerns, please contact a member or director immediately.
 > 
 > This anti-harassment policy is based on the MakeHackVoid Code of
-> Conduct, which in turn is based on the example policy from the Geek
-> Feminism wiki, created by the Ada Initiative and other volunteers.
+> Conduct, which in turn is based on the [example policy from the Geek
+> Feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment), created by the Ada Initiative and other volunteers.
 
 ## Internal Version for Members
 
