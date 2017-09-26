@@ -2,6 +2,13 @@ This is the interim document for meeting agenda items.  There is no
 significance to the ordering - Each item has been added in the order of
 its arrival.
 
+Pre meeting trivia:
+
+0.1.  Are we all agreed that there is a quorum present?
+0.2.  Nominate a meeting chairperson and minute taker
+0.3.  State to all that this meeting will be held under the Chatham House Rule
+0.4.  Prioritise the agenda items (if needed)
+
 Carried over from previous meeting:
 
 1. What about gap months? To be discussed on next meeting
