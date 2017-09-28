@@ -19,10 +19,10 @@ longer announcements.
 > DimSumLabs is dedicated to providing a harassment-free experience
 > for everyone, regardless of gender, gender identity and expression,
 > sexual orientation, disability, physical appearance, body size,
-> race, or religion. We do not tolerate harassment of people at our
-> events or space in any form. People violating these rules may be
-> sanctioned or expelled from the space or the event at the discretion
-> of any DimSumLabs member.
+> race, political affiliation or religion. We do not tolerate harassment
+> of people at our events or space in any form. People violating these
+> rules may be sanctioned or expelled from the space or the event at the
+> discretion of any DimSumLabs member.
 > 
 > Our code of conduct can be found at:
 > https://github.com/dimsumlabs/dsl-meetings/blob/master/code_of_conduct.md
@@ -36,20 +36,20 @@ education. Suitable for the web site and printed material.
 > DimSumLabs is dedicated to providing a harassment-free experience
 > for everyone, regardless of gender, gender identity and expression,
 > sexual orientation, disability, physical appearance, body size,
-> race, or religion. We do not tolerate harassment of people at our
-> events or space in any form. People violating these rules may be
-> sanctioned or expelled from the space or the event at the discretion
-> of any DimSumLabs member.
+> race, political affiliation or religion. We do not tolerate harassment
+> of people at our events or space in any form. People violating these
+> rules may be sanctioned or expelled from the space or the event at the
+> discretion of any DimSumLabs member.
 > 
 > Harassment includes offensive verbal comments related to gender,
 > gender identity and expression, sexual orientation, disability,
-> physical appearance, body size, race, religion. Harassment also
-> includes sexual images in public spaces, deliberate intimidation,
-> verbal or physical threats, stalking, following, harassing
-> photography or recording, sustained disruption of talks or other
-> events, inappropriate physical contact, and unwelcome sexual
-> attention. People asked to stop any harassing behaviour are expected
-> to comply immediately.
+> physical appearance, body size, race, political affiliation and
+> religion. Harassment also includes sexual images in public spaces,
+> deliberate intimidation, verbal or physical threats, stalking, following,
+> harassing photography or recording, sustained disruption of talks or
+> other events, inappropriate physical contact, and unwelcome sexual
+> attention. People asked to stop any harassing behaviour are expected to
+> comply immediately.
 > 
 > If a person engages in harassing behaviour, DimSumLabs members may
 > take any action they deem appropriate, including warning the offender
