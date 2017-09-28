@@ -38,11 +38,14 @@ the space.
 
 7. Are the membership dues too low? (proposed by: hamish)
 
-Looking at our current accounts, we can calculate our normal outgoings and
-incomings.  This data can be used to propose a minimum number of members
-or a rise in the membership cost.  I have not done the calculation yet,
-but will present the needed numbers and our actual numbers for consideration.
-(I hope to update this paragraph with some numbers before final publishing)
+Using the last 12 months of membership data, I am able to calculate
+some figures:
+    Average outgoing per month: $14268
+    Current average members each month: 19
+    At current membership cost, we would need 25 members
+    At $600 per month, we would need 21 members
+    (both member counts incorporate the fees from the bookshelves)
+TODO - Add a separate file with the full details
 
 8. Update on the Design Trust Grant (proposed by: nicolas)
 
