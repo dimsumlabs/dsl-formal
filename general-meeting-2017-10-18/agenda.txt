@@ -81,8 +81,6 @@ I propose that we:
    1. Increase membership price to 600 for adults and 300 for students
    2. If Makerbay or Makerhive increase their prices, we should use that
       as a sign that our prices should be revised.
-   3. Reserving 10% of the revenue for gradually paying the rent,
-      and prepare for future rent and repairs
 
    Comparison: Makerbay
         200/day, 750/wk, 1500/mth, 40/box
@@ -96,7 +94,13 @@ I propose that we:
    Note: We get 30 members at the peak and 15 members at lowest,
        So assuming 20 members on average, 12500/20=625
 
-14. Changes to fees for courses/training hosted in DSL (proposed by: brad)
+14. Use of any future profits (proposed by: brad)
+
+If in the future - when we have paid off all our debts (eg: the overdue
+rent) - we make a profit then a minimum of 10% of any monthly profit
+should be kept aside to prepare for future rent and repairs.
+
+15. Changes to fees for courses/training hosted in DSL (proposed by: brad)
 
 I propose that we consider changing the fees we charge for people to
 run courses or training sessions in the space, choosing one of these
@@ -107,19 +111,19 @@ two options:
    2. Any courses hosted here must pay 100 dollar per seat,
       instead of 50% of revenue like we used to do
 
-15. Vote on adopting a Code of Conduct (proposed by: brad)
+16. Vote on adopting a Code of Conduct (proposed by: brad)
 
 Hamish has done some research and found a widely used template
 code of conduct.  Please read the file "proposed/code_of_conduct.md"
 in this respository and consider it for adoption.
 
-16. Introductory membership fee (proposed by: Anthony)
+17. Introductory membership fee (proposed by: Anthony)
 
 To make it easier to attract new members, should we have a reduced price
 for your first month?  I suggest making the same price as the student
 fee
 
-17. A temporary increased membership fee (proposed by: Anthony)
+18. A temporary increased membership fee (proposed by: Anthony)
 
 If we need to increase the membership fees, we should do that for a
 trial 3 month period and evaluate how that worked.  If we are good
