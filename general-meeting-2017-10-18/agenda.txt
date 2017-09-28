@@ -7,7 +7,8 @@ Pre meeting trivia:
 0.1.  Are we all agreed that there is a quorum present?
 0.2.  Nominate a meeting chairperson and minute taker
 0.3.  State to all that this meeting will be held under the Chatham House Rule
-0.4.  Prioritise the agenda items (if needed)
+0.4.  Prioritise the agenda items (if not done before the meeting)
+      and join together any that are obviously the same.
 
 Carried over from previous meeting:
 
@@ -74,4 +75,53 @@ I suggest getting an email address from each person.  Possibly this
 could then be used for automatically joining them to the members
 list.  This should also be used to send dues payment reminders.
 
+13. Membership fees increase (proposed by: brad)
+
+I propose that we:
+   1. Increase membership price to 600 for adults and 300 for students
+   2. If Makerbay or Makerhive increase their prices, we should use that
+      as a sign that our prices should be revised.
+   3. Reserving 10% of the revenue for gradually paying the rent,
+      and prepare for future rent and repairs
+
+   Comparison: Makerbay
+        200/day, 750/wk, 1500/mth, 40/box
+        https://www.makerbay.org/collections/memberships
+   Comparison: Makerhive
+        1000/wk (workshop only), 1500/wk
+        http://makerhive.com.hk/membership/
+   Comparison:  Robotics Garage
+       50/day, 200/wk, 600/mth, 1500/quarter, 2500/half-yr (adult)
+        https://robotics-garage.hkstp.org/membership/
+   Note: We get 30 members at the peak and 15 members at lowest,
+       So assuming 20 members on average, 12500/20=625
+
+14. Changes to fees for courses/training hosted in DSL (proposed by: brad)
+
+I propose that we consider changing the fees we charge for people to
+run courses or training sessions in the space, choosing one of these
+two options:
+   1. Any courses hosted here must pay 50 dollar per seat,
+      instead of 50% of revenue like we used to do
+    or
+   2. Any courses hosted here must pay 100 dollar per seat,
+      instead of 50% of revenue like we used to do
+
+15. Vote on adopting a Code of Conduct (proposed by: brad)
+
+Hamish has done some research and found a widely used template
+code of conduct.  Please read the file "proposed/code_of_conduct.md"
+in this respository and consider it for adoption.
+
+16. Introductory membership fee (proposed by: Anthony)
+
+To make it easier to attract new members, should we have a reduced price
+for your first month?  I suggest making the same price as the student
+fee
+
+17. A temporary increased membership fee (proposed by: Anthony)
+
+If we need to increase the membership fees, we should do that for a
+trial 3 month period and evaluate how that worked.  If we are good
+at fundraising, we could return it to the original rate then.
 
