@@ -58,6 +58,13 @@ project?
 It is easier to maintain than the mailing list. Members should not be
 required to install it on their phone.
 
+But we also could drop the Slack and implement a private IRC server,
+with sub-channels open to member only and use to connect to it the
+Smuxi software.
+
+For any people not knowing about IRC or needing a refresh, we could have
+a quick course on it.
+
 10. Emergency contacts (proposed by: nicolas)
 
 We should have a list of the people who have the physical key and
