@@ -1,0 +1,103 @@
+This file contains some reports from the git repository containing the
+DSL cash account records.
+
+
+Show exactly which version of the database was used for this report:
+
+$ git describe --always
+3f56a7a6a4ef
+
+
+Generate statistics about the membership levels and running costs.
+Exclude both the months before the data is accurate and one anomoly
+month from the data:
+
+$ ./balance.py --split --filter 'month>2016-08' --filter 'month!=2017-07' stats
+Filename "notes-2017-08" not valid, put into proper accounting file
+                 2016-09    2016-10    2016-11    2016-12    2017-01    2017-02    2017-03    2017-04    2017-05    2017-06    2017-08    2017-09    Average      Total
+outgoing          -15174     -13431     -13957     -14037     -13208     -14132     -13383     -14211     -14739     -13848     -13873     -14310     -14026    -168302
+incoming           11906      14341      11198      10680      12710      12440      12050      11600      12688      10680      16260      23005      13296     159558
+
+ dues:              5862       7962       6600       6400       9600       9700       9600       9200       9288       7088      10100      13800       8766     105200
+ other:             6044       6379       4598       4280       3110       2740       2450       2400       3400       3592       6160       9205       4529      54358
+
+nr members            12         17         14         14         22         22         22         20         22         17         23         31         19         42
+ARPM                 488        468        471        457        436        440        436        460        422        416        439        445        461       2504
+
+members needed
+ dues 500             31         27         28         29         27         29         27         29         30         28         28         29         29
+ dues 600             26         23         24         24         23         24         23         24         25         24         24         24         24
+ dues 700             22         20         20         21         19         21         20         21         22         20         20         21         21
+dues needed
+ members 17          892        790        821        825        776        831        787        835        866        814        816        841        825
+ members 20          758        671        697        701        660        706        669        710        736        692        693        715        701
+ members 25          606        537        558        561        528        565        535        568        589        553        554        572        561
+ members 30          505        447        465        467        440        471        446        473        491        461        462        476        467
+
+
+Show each tracked account category for all the available months:
+
+$ ./balance.py --split grid
+Filename "notes-2017-08" not valid, put into proper accounting file
+                        2016-07  2016-08  2016-09  2016-10  2016-11  2016-12  2017-01  2017-02  2017-03  2017-04  2017-05  2017-06  2017-07  2017-08  2017-09  2017-10  2017-11  2017-12
+In bookshelves                               2000     2000     2000     2000     2000     2000     2000     2000     2000     2000     2000     2000     2000     2000     2000         
+In clubmate                                  1500                                                                                                                                       
+In dues:adam                         700      700      700      500      500      500      500      500      500      500      500      500      500      500                           
+In dues:alex                                                                                                                                              500                           
+In dues:anthony                                                                                                                         500      500      500      500                  
+In dues:audrey                                                                                                                                   500      500      500                  
+In dues:aurelio                                        200      200      500      500      500                                                                                          
+In dues:benedict                                                                  500                                                                     500                           
+In dues:brad                                           200      200      200      200      200      200      200      200      200      200      200      200                           
+In dues:charles                                        600      600               500      500      500      500                                                                        
+In dues:christine                    263      262      262                                                                                                                              
+In dues:colin                                          500                                                                                                                              
+In dues:devon                                                                                                500      500      500      500      500      500                           
+In dues:elliot                                                                                                                          500               500                           
+In dues:hamish                                500      500      500                        500      500               500      500      500      500      500      500                  
+In dues:hans                                                                                                                                              500                           
+In dues:igor                                                                                                                                              500      500                  
+In dues:jake                                                             500                                                                                                            
+In dues:james                        500      500      500     1000      500      500      500      500      500      500               500      500      500                           
+In dues:jd                                             500               500      500      500      500      500      500      500      500      500      500                           
+In dues:jerry                                                            200      200      200      200               200                                                               
+In dues:joakimn                                                                                              500                                                                        
+In dues:julianlee                                                        500      500      500      500      500      500      500      500      500      500                           
+In dues:kam                                                                                                                                               500                           
+In dues:kenneth                                                                                                                         500                                             
+In dues:leviathan                    200      200      200      200      500      500      500      500      500      488      488      488      500      200                           
+In dues:lio                 500      500      500      500      500               500      600      500      500      500      500      500      500      500                           
+In dues:luca                                  500      500      500      500      500      500      500      500      500      500      500      500      500                           
+In dues:manolis                      500                        500      500      500      500      500      500      500      500      500      500      500                           
+In dues:mathis                                                                      0        0        0        0        0        0        0        0        0        0        0        0
+In dues:meebey                                                                    500      500      500      500      500      500      500      500      500                           
+In dues:michelle                                                                                    500               500                                                               
+In dues:neil                                                                                                                                              500                           
+In dues:nicolas                                                                                     500      500      500               500      500      500                           
+In dues:pierre                                                                                               500      500               500      500      500      500                  
+In dues:sarah                                                                                                                                             500                           
+In dues:sean                                                                                                                            200                                             
+In dues:shing                                                                                                                                             500                           
+In dues:steph                                                                     500      500                                                                                          
+In dues:stigo                                 500      500      500      500      500      500      500      500      200      200      200      200      200      200                  
+In dues:sunny                                 500      500                        500      500      500      500      500               500      500      500                           
+In dues:syed                                           300      400               500      500      500                        500                                                      
+In dues:tim                                                                                                                                      500                                    
+In dues:tobias                                700                                 200      200      200               200      200      200      200      200                           
+In dues:tom                          500      500     1000      500      500      500      500      500      500      500      500      500      500      500                           
+In dues:william             500      500      500      500      500      500      500      500      500      500      500      500      500      500      500      500                  
+In tshirt                                                                                  200                                                                                          
+In unknown                         22710     2544     2754     1378     1370      610      140       50           1000.20     1392     7312     4160  7205.24                           
+In workshop                          100              1625     1220      910      500      400      400      400      400      200      400                                             
+Out bills:br                                                    -30      -20      -20      -20      -20      -20      -20      -20      -20      -20      -20      -20                  
+Out bills:electricity              -1439    -1174     -931     -929     -929              -924     -325     -523     -523     -835     -835     -835                                    
+Out bills:internet                  -787                       -488     -488     -488     -488     -488     -488     -488     -488     -488     -488     -488     -488     -488     -488
+Out bills:rent           -12500   -12500   -12500   -12500   -12500   -12500   -12500   -12500   -12500   -12500   -12500   -12500   -12500   -12500   -12500                           
+Out bills:water                                                                                                     -7.20       -5       -5       -5                                    
+Out clubmate                                -1500                                                                                                                                       
+Out fees:paypal                                                         -100     -200     -200      -50     -680    -1200              -350      -25  -786.24                           
+Out unknown                                                     -10                                                                   -3022              -515                           
+
+MONTH Sub Total          -11500    11747    -3268      910    -2759    -3357     -498    -1692    -1333    -2611    -2050    -3168     2780     2387     8696     4692     1512     -488
+RUNNING Balance          -11500      247    -3021    -2111    -4870    -8227    -8725   -10417   -11750   -14361   -16411   -19579   -16799   -14412    -5716    -1024      488        0
+TOTAL:         0

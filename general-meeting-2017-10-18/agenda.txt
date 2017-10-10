@@ -10,24 +10,10 @@ Pre meeting trivia:
 0.4.  Prioritise the agenda items (if not done before the meeting)
       and join together any that are obviously the same.
 
-Carried over from previous meeting:
+There were four agenda items Carried over from previous meeting, which
+have now been integrated into the list below.
 
-1. What about gap months? To be discussed on next meeting
-2. Becoming part of the Chaos Computer Club - Proposal needs more work,
-   bring it up again at next general meeting with more information
-3. Long term future of DSL/HKMake Ltd We need to further investigate
-   what company structures are viable in the future Bring up again next
-   general meeting
-4. Code of conduct Bring up again next meeting, not prepared
-
-New agenda items:
-
-5. mailing list site has expired ssl cert (proposed by: hamish)
-
-Hopefully it is self-evident that we should not be using any expired
-SSL certificates on websites.
-
-6. Directors needed (proposed by: hamish)
+1. Directors needed (proposed by: hamish)
 
 Since we currently have no standing directors, we need to elect some.
 The Hong Kong companies regulations seems to require that there are at
@@ -37,52 +23,24 @@ have three acceptable candidates.  Since - by law - we cannot continue
 without directors, this is a key part of legally continuing to operate
 the space.
 
-7. Are the membership dues too low? (proposed by: hamish)
+2. Membership dues
+
+2.1. What about gap months? To be discussed on next meeting
+
+Carried over from previous meeting
+
+2.2 Are the membership dues too low? (proposed by: hamish)
 
 Using the last 12 months of membership data, I am able to calculate
 some figures:
-    Average outgoing per month: $14268
+    Average outgoing per month: $14026
     Current average members each month: 19
     At current membership cost, we would need 25 members
     At $600 per month, we would need 21 members
-    (both member counts incorporate the fees from the bookshelves)
-TODO - Add a separate file with the full details
+    (both needed member counts incorporate the income from the bookshelves)
+(For reference, see accounts-report.txt for the detailed report data)
 
-8. Update on the Design Trust Grant (proposed by: nicolas)
-
-as far as I know we passed the deadline. So what is the status on this
-project?
-
-9. Slack: every member must have an account on Slack. (proposed by: nicolas)
-
-It is easier to maintain than the mailing list. Members should not be
-required to install it on their phone.
-
-But we also could drop the Slack and implement a private IRC server,
-with sub-channels open to member only and use to connect to it the
-Smuxi software.
-
-For any people not knowing about IRC or needing a refresh, we could have
-a quick course on it.
-
-10. Emergency contacts (proposed by: nicolas)
-
-We should have a list of the people who have the physical key and
-their updated phone number / emails to contact in case of emergency
-
-11. We will discuss the current events leading up to Friday including
-codes of conduct in general and how to apply them (proposed by: nicolas)
-
-12. All Members should be contactable by the space (proposed by: hamish)
-
-We have a policy for orphaned items left in the space that includes
-contacting the owner and giving them one month to remove it.  This
-means that the space needs a database of member contact details.
-I suggest getting an email address from each person.  Possibly this
-could then be used for automatically joining them to the members
-list.  This should also be used to send dues payment reminders.
-
-13. Membership fees increase (proposed by: brad)
+2.3. Membership fees increase (proposed by: brad)
 
 I propose that we:
    1. Increase membership price to 600 for adults and 300 for students
@@ -101,13 +59,90 @@ I propose that we:
    Note: We get 30 members at the peak and 15 members at lowest,
        So assuming 20 members on average, 12500/20=625
 
-14. Use of any future profits (proposed by: brad)
+2.4. Introductory membership fee (proposed by: Anthony)
+
+To make it easier to attract new members, should we have a reduced price
+for your first month?  I suggest making the same price as the student
+fee
+
+2.5. A temporary increased membership fee (proposed by: Anthony)
+
+If we need to increase the membership fees, we should do that for a
+trial 3 month period and evaluate how that worked.  If we are good
+at fundraising, we could return it to the original rate then.
+
+3. Members' Contact information
+
+3.1. Emergency contacts (proposed by: nicolas)
+
+We should have a list of the people who have the physical key and
+their updated phone number / emails to contact in case of emergency
+
+3.2. All Members should be contactable by the space (proposed by: hamish)
+
+We have a policy for orphaned items left in the space that includes
+contacting the owner and giving them one month to remove it.  This
+means that the space needs a database of member contact details.
+I suggest getting an email address from each person.  Possibly this
+could then be used for automatically joining them to the members
+list.  This should also be used to send dues payment reminders.
+
+3.3. Slack: every member must have an account on Slack. (proposed by: nicolas)
+
+It is easier to maintain than the mailing list. Members should not be
+required to install it on their phone.
+
+But we also could drop the Slack and implement a private IRC server,
+with sub-channels open to member only and use to connect to it the
+Smuxi software.
+
+For any people not knowing about IRC or needing a refresh, we could have
+a quick course on it.
+
+4. We will discuss the current events leading up to Friday including
+codes of conduct in general and how to apply them (proposed by: nicolas)
+
+5. Vote on adopting a Code of Conduct (proposed by: brad)
+
+(I am considering this item to replace the "Code of conduct Bring up
+again next meeting, not prepared" agenda item carried over from the
+previous meeting)
+
+Hamish has done some research and found a widely used template
+code of conduct.  Please read the file "proposed/code_of_conduct.md"
+in this respository and consider it for adoption.
+
+6. mailing list site has expired ssl cert (proposed by: hamish)
+
+Hopefully it is self-evident that we should not be using any expired
+SSL certificates on websites.
+
+7. Becoming part of the Chaos Computer Club
+
+Carried over from previous meeting
+
+Proposal needs more work, bring it up again at next general meeting with
+more information
+
+8. Long term future of DSL/HKMake Ltd
+
+Carried over from previous meeting
+
+We need to further investigate what company structures are viable in
+the future Bring up again next general meeting
+
+9. Update on the Design Trust Grant (proposed by: nicolas)
+
+as far as I know we passed the deadline. So what is the status on this
+project?
+
+10. Use of any future profits (proposed by: brad)
 
 If in the future - when we have paid off all our debts (eg: the overdue
 rent) - we make a profit then a minimum of 10% of any monthly profit
 should be kept aside to prepare for future rent and repairs.
 
-15. Changes to fees for courses/training hosted in DSL (proposed by: brad)
+11. Changes to fees for courses/training hosted in DSL (proposed by: brad)
 
 I propose that we consider changing the fees we charge for people to
 run courses or training sessions in the space, choosing one of these
@@ -117,22 +152,4 @@ two options:
     or
    2. Any courses hosted here must pay 100 dollar per seat,
       instead of 50% of revenue like we used to do
-
-16. Vote on adopting a Code of Conduct (proposed by: brad)
-
-Hamish has done some research and found a widely used template
-code of conduct.  Please read the file "proposed/code_of_conduct.md"
-in this respository and consider it for adoption.
-
-17. Introductory membership fee (proposed by: Anthony)
-
-To make it easier to attract new members, should we have a reduced price
-for your first month?  I suggest making the same price as the student
-fee
-
-18. A temporary increased membership fee (proposed by: Anthony)
-
-If we need to increase the membership fees, we should do that for a
-trial 3 month period and evaluate how that worked.  If we are good
-at fundraising, we could return it to the original rate then.
 
