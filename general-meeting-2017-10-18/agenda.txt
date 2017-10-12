@@ -13,7 +13,9 @@ Pre meeting trivia:
 There were four agenda items Carried over from previous meeting, which
 have now been integrated into the list below.
 
-1. Directors needed (proposed by: hamish)
+1. HKMake Ltd
+
+1.1. Directors needed (proposed by: hamish)
 
 Since we currently have no standing directors, we need to elect some.
 The Hong Kong companies regulations seems to require that there are at
@@ -23,7 +25,11 @@ have three acceptable candidates.  Since - by law - we cannot continue
 without directors, this is a key part of legally continuing to operate
 the space.
 
-1b. Closure of HKmake Ltd. (proposed by: Lio)
+1.2. Closure of HKmake Ltd. (proposed by: Lio)
+
+    Questions for discussion:
+    - Can we rent office space without a company?
+    - In case of accident where the responsibilities will fall to?
 
 2. Membership dues
 
@@ -66,6 +72,9 @@ I propose that we:
 To make it easier to attract new members, should we have a reduced price
 for your first month?  I suggest making the same price as the student
 fee
+
+    Questions for discussion:
+    - What will be the introductory fee for students?
 
 2.5. A temporary increased membership fee (proposed by: Anthony)
 
