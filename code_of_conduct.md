@@ -8,7 +8,7 @@ news stories, etc.
 
 > DimSumLabs is dedicated to a harassment-free experience
 > for everyone. Our code of conduct can be found at:
-> https://github.com/dimsumlabs/dsl-meetings/blob/master/code_of_conduct.md
+> https://github.com/dimsumlabs/dsl-formal/blob/master/code_of_conduct.md
 
 ## Medium public version
 
@@ -25,7 +25,7 @@ longer announcements.
 > discretion of any DimSumLabs member.
 > 
 > Our code of conduct can be found at:
-> https://github.com/dimsumlabs/dsl-meetings/blob/master/code_of_conduct.md
+> https://github.com/dimsumlabs/dsl-formal/blob/master/code_of_conduct.md
 
 ## Long public version
 
