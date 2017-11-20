@@ -1,0 +1,31 @@
+This is the interim document for meeting agenda items.  The order of the
+agenda items is purely a suggestion until the pre-meeting prioritisation
+step has occured.
+
+Pre meeting trivia:
+
+0.1.  Are we all agreed that there is a quorum present?
+0.2.  Nominate a meeting chairperson and minute taker
+0.3.  State to all that this meeting will be held under the Chatham House Rule
+0.4.  Prioritise the agenda items (if not done before the meeting)
+      and join together any that are obviously the same.
+
+1. HKMake Ltd
+
+1.1. Financial Health (proposed by: hamish)
+
+Quick report on the current financial situation
+
+1.2. Decide on the future of DimSumLabs
+
+At the last meeting, we determined that the funding for DimSumLabs was a
+serious issue and that we all needed to put effort into trying to turn
+things around.
+
+Questions for discussion:
+- Have we seen any turnaround in the finances?
+- Do we have enough data to make a decision about the future?
+
+Remembering that we probably only have until the end of Jan to make any
+final decisions.
+
