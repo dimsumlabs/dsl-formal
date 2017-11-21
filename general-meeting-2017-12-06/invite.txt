@@ -14,4 +14,7 @@ be asking that any submitted agenda item be accompanied by a description
 (of one to three paragraphs) - to be published at the same time as the
 agenda - so that everyone can be on the same page to start any discussions.
 
+-- 
+DimSumLabs is dedicated to a harassment-free experience for everyone.
+Our code of conduct can be found at: https://git.io/vd7WL
 
