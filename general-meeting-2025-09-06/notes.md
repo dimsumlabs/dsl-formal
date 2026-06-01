@@ -1,0 +1,59 @@
+# Meeting minutes 2025-09-06
+
+- Agenda
+    - Points of order
+        - Chair selected Iulian
+        - Attempting to end at 4pm
+        - Present: Nigel, Iulian, Matthew, Portia, Philip, Gabriel, Jerry, Neil
+    - Audits
+        - Sam Yip prepared the accounts from github into a spreadsheet ready to be taken to an accountant/auditor.
+        - Portia suggests Accolade that can do our accounts, all years, for HK$3500. We need to provide Income statements and balance reports.
+        - Nigel's accountant suggestion provably outside of the above offer.
+        - Action: Portia to forward Sam Yip's accounts to Accolade.
+        - We will ask for contributions to clear the accounts.
+        - Does that include producing an annual return that can be submitted? Will check.
+        - We need to resolve our lack of Secretary (nicholas needs removal). Look at articles of association.
+    - Articles of association
+        - Found paperwork - Review, decide if we do a new company.
+        - We need to dismiss the Secretary. Needs to be a company or permanent resident.
+        - The requirement is 2 director (physical person) 1 Secretary (can be company). Officially we also require a Member.
+        - Action: Iulian to review the AoA for Code and Make LTD to understand the process.
+        - Action: Iulian to organise elections to resolve the missing Officers.
+    - Social and workshop commitments
+        - Timetable of future hackjams and have 2 people commit
+        - Nigel is volunteering to do more hackjams.
+        - Move back to hackjam once a week.
+        - Nigel: Make a spreadsheet with commitments to host hackjam.
+        - Send example of membership form  [Link](https://docs.google.com/forms/d/e/1FAIpQLSd1G9bEH_qlR-2HuIdG5bIYoFfUGvXQ9Q3UK8rs_r-ZOLkf5g/viewform). We should implement similar. Only residents can be members (to check).
+        - iulian suggest we move Hackjam away from Tue because other groups host events on the day. There's some history with Tuesdays so we'd prefer to stay but Iulian to make a calendar of other events and review by end of month.
+        - Action: unofficially we will try to do it every Tue for this week. Portia, Nigel, Iulian, Neil, Matthew can be hosts. Use the DSL whatsapp group. (P.S. cannot find it in my history)
+        - Canto Socials. Attract cantonese crowd. Topics canto people are interesed in. can be on a Thursday. Once a month to start. Mandarin also suggested... members can do their own thing if they don't want to engage.
+            - Action: find the date that clashes least.
+            - Suggestion: Do some presentations.
+        - Asking for commitments for workshops. No volunteers for September. Call for papers. Neil could do oct sat morning (game dev, basic programming) - targeted towards 10+ (minors need adults). under 18 without parents you'd need to get permission.
+        - Some suggestion of a process.
+        - Some discussion of semi permanent recording setup.
+        - Action: Nigel to set up a simple process.
+            - Contact point (multilingual speaker)
+            - Inform members of events.
+    - Nigel's plan for the future of the hackspace
+        - Link in members meeting. comment feedback.
+        - Things needs labeled in the space.
+        - post prezzo discussion:
+            - What parts of the hackspace are useful to members and potential contributors.
+            - Criteria for space?
+            - Preference for district.
+    - Laser
+        - Ventilation is working. Designed a laser laminar flow, but now its based on a gap which exposes the laser. Will continue improvements for the next month.
+    - AOB
+        - How much is being covered by members. Lost 4000 last month, lost 1000 this month..
+        - Organise a cleanup/ space hack
+            - Action: iulian to plan tasks (see next)
+                - Catalog
+                - Clean up
+                - Decide on usefulness of tools - after catalog system in place.
+                    - min 2 members vote to keep it
+                    - describe why is valuable
+                    - Propose to group to dispose - will discuss in the next meeting.
+                - Rearrange space
+                - Use the soft Hackjams on next Tue and 4th Tue.
