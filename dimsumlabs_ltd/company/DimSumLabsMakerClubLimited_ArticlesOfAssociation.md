@@ -33,6 +33,7 @@ Every Member of the Company undertakes to contribute to the assets of the Compan
     *   "Articles" means these Articles of Association.
     *   "By-laws" refers to the Operational By-laws adopted by the Directors and Members for day-to-day management.
     *   "Member" means a statutory member of the Company who has agreed to the guarantee and whose name is entered in the statutory Register of Members. Under these Articles, the office of Member and the office of Director are unified; every Member must be a Director, and "Membership" shall be construed accordingly.
+    *   "Director" means a person appointed to legally manage the Company under the Ordinance. Under these Articles, the office of Director and the office of Member are unified; every Director must be a Member, and "Directorship" shall be construed accordingly.
     *   "Club Member" refers to an operational affiliate who pays dues to access premises maintained by the Company or participate in the community, as governed by the By-laws. While all statutory Members must be Club Members, the status of Club Member alone does not confer statutory Membership in the Company.
     *   "General Meeting" means a meeting in which all Members and Directors shall meet to decide on Company matters.
     *   "AGM" means an Annual General Meeting.
