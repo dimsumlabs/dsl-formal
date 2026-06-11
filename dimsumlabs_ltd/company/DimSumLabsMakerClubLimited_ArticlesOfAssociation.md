@@ -119,7 +119,7 @@ Every Member of the Company undertakes to contribute to the assets of the Compan
 
 24. **Quorum:** No statutory business is to be transacted at a General Meeting if the persons attending do not constitute a quorum. If the Company has only one Member, one Member present in person or by proxy constitutes a quorum. If the Company has two or more Members, two Members present in person or by proxy constitute a quorum. For the avoidance of doubt, the quorum remains two (2) Members regardless of how many total Members the Company has above that number.
 
-25. **Proxies:** A Member entitled to attend and vote at a General Meeting may appoint a proxy to attend and vote on their behalf. The appointment of a proxy must be a Written Notice and must include the meeting for which the proxy is valid. Such Written Notice shall be delivered to the Company Secretary no later than 48 hours before the time appointed for holding the meeting.
+25. **Proxies:** A Member entitled to attend and vote at a General Meeting may appoint a proxy to attend and vote on their behalf. The appointment must be made by Written Notice, specifying the meeting for which the proxy is valid, and must be delivered to the Company Secretary no later than 48 hours before the appointed time of the meeting.
 
 26. **Voting rights:** Every Member, whether present in person or by proxy, shall have exactly one (1) vote at any General Meeting. There shall be no exceptions, special voting rights, or weighted voting for any Member.
 
