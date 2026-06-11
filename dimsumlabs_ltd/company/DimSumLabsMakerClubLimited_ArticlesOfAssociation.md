@@ -56,17 +56,23 @@ Every Member of the Company undertakes to contribute to the assets of the Compan
 
 5.  **General Authority:** Directors manage the Company's day-to-day operations, subject to the Ordinance, these Articles, and the By-laws.
 
-6.  **Appointment:** The office of Director and the status of Statutory Member are unified. All statutory Members and Directors must be natural persons. A Club Member in good standing who is willing to act as a Director, and is permitted by law to do so, may be appointed to be a Director by Ordinary Resolution of the Members at an AGM or an EGM. Upon such appointment, the person shall simultaneously be entered into the Register of Members. A Director must remain a Club Member in good standing at all times.
+6.  **Unified Roles:** The office of Director and the status of Statutory Member are unified.
 
-7.  **Number of Directors:** The Company shall have at least two Directors. If the total number of Directors/Members falls below the statutory minimum of two (e.g., due to an event of Termination under Article 11), the continuing sole Director/Member may act, and forms a valid quorum of one, **only** for the purposes of appointing an eligible Club Member as a new Director/Member. The sole Director/Member may pass this appointment by a written Ordinary Resolution immediately, waiving all normal meeting notice periods. The sole Director/Member shall not transact any other statutory or operational business on behalf of the Company until the minimum number of two Directors/Members is restored.
+7.  **Natural Persons:** All statutory Members and Directors must be natural persons.
 
-8.  **Remuneration:** Directors shall serve without remuneration for their role as Directors. Neither the Company nor the Directors shall authorize any payment to a Director for services rendered in their capacity as a Director. However, Directors may be repaid expenses properly incurred by them in connection with the discharge of their duties.
+8.  **Appointment:** A Club Member in good standing who is willing to act as a Director, and is permitted by law to do so, may be appointed to be a Director by Ordinary Resolution of the Members at an AGM or an EGM. Upon such appointment, the person shall simultaneously be entered into the Register of Members.
 
-9.  **Delegation of Powers:** The Directors may delegate powers to committees. Such committees may consist of Directors, Members, Club Members, or any combination thereof, depending on the nature of the delegation.
+9.  **Club Membership Requirement:** A Director must remain a Club Member in good standing at all times.
 
-10. **Adoption of By-Laws:** The Directors and Members shall have the power to adopt, amend, and repeal the By-laws for the day-to-day management of the community space.
+10. **Number of Directors:** The Company shall have at least two Directors. If the total number of Directors/Members falls below the statutory minimum of two (e.g., due to an event of Termination under Article 14), the continuing sole Director/Member may act, and forms a valid quorum of one, **only** for the purposes of appointing an eligible Club Member as a new Director/Member. The sole Director/Member may pass this appointment by a written Ordinary Resolution immediately, waiving all normal meeting notice periods. The sole Director/Member shall not transact any other statutory or operational business on behalf of the Company until the minimum number of two Directors/Members is restored.
 
-11. **Termination:** A person ceases to be a Director, and simultaneously ceases to be a Member, at the moment when the person:
+11. **Remuneration:** Directors shall serve without remuneration for their role as Directors. Neither the Company nor the Directors shall authorize any payment to a Director for services rendered in their capacity as a Director. However, Directors may be repaid expenses properly incurred by them in connection with the discharge of their duties.
+
+12. **Delegation of Powers:** The Directors may delegate powers to committees. Such committees may consist of Directors, Members, Club Members, or any combination thereof, depending on the nature of the delegation.
+
+13. **Adoption of By-Laws:** The Directors and Members shall have the power to adopt, amend, and repeal the By-laws for the day-to-day management of the community space.
+
+14. **Termination:** A person ceases to be a Director, and simultaneously ceases to be a Member, at the moment when the person:
     *   (a) resigns the office by Written Notice delivered to the Company's registered office or to the Company Secretary;
     *   (b) ceases to be a Director under the Ordinance or is prohibited from being a Director by law;
     *   (c) is found guilty of a criminal offence under the laws of Hong Kong;
@@ -74,18 +80,18 @@ Every Member of the Company undertakes to contribute to the assets of the Compan
     *   (e) is removed from the office of Director by an Ordinary Resolution of the Members at an AGM or EGM; or
     *   (f) dies.
 
-12. **Removal:** A Director may be removed from office by an Ordinary Resolution at an AGM or EGM if the Director:
+15. **Removal:** A Director may be removed from office by an Ordinary Resolution at an AGM or EGM if the Director:
     *   (a) becomes a person suffering from Mental Incapacity as defined by section 2(1) of the Mental Health Ordinance (Cap. 136);
     *   (b) is incommunicado, or has been absent, without any Director's consent, from Directors' meetings, or from any of their day-to-day duties as a Director, expressed or implied, for a continuous period of six months;
     *   (c) ceases to be a Club Member in good standing;
     *   (d) commits any fraudulent activity, theft, or misappropriation of Company funds or assets;
-    *   (e) improperly receives or attempts to receive remuneration or unauthorized financial benefits from the Company in violation of Article 8;
+    *   (e) improperly receives or attempts to receive remuneration or unauthorized financial benefits from the Company in violation of Article 11;
     *   (f) fails to declare a material conflict of interest, or engages in undisclosed self-dealing that harms the Company;
     *   (g) engages in gross negligence, dereliction of duty, or persistent failure to fulfill their statutory or fiduciary duties;
     *   (h) engages in grave misconduct that brings the Company into serious public disrepute; or
     *   (i) commits a material or persistent breach of these Articles or the By-laws.
-
-13. **Removal Process:** To remove a Director (the "Director in Question") under Article 11(e) and Article 12, the following process must be followed in accordance with Section 462 of the Ordinance:
+    
+16. **Removal Process:** To remove a Director (the "Director in Question") under Article 14(e) and Article 15, the following process must be followed in accordance with Section 462 of the Ordinance:
     *   (a) **Initiation:** The process may be initiated by any Member, or by a formal petition of Club Members meeting the threshold defined in the By-laws (the "Initiator").
     *   (b) **The Written Notice:** The Initiator must deliver a Written Notice to the Company Secretary (or to the remaining Directors if there is no Secretary). This Written Notice must explicitly state the intention to hold a vote to remove the Director in Question. It must contain the exact wording of the proposed Ordinary Resolution. It may contain rationale and evidence to support such Removal. This Written Notice must be delivered at least 28 days before the General Meeting where the Vote for the Ordinary Resolution for the Removal will happen ("the GM").
     *   (c) **Informing the Target:** Immediately upon receiving the Written Notice, the Company Secretary or remaining Directors must send a copy of it to the Director in Question via any known means of contact for the Director in Question.
@@ -95,32 +101,38 @@ Every Member of the Company undertakes to contribute to the assets of the Compan
 
 **Division 4: Members**
 
-14. **Unified Statutory Membership and Directorship:** The statutory Membership of the Company is strictly limited to the current, legally appointed Directors of the Company. All statutory Members and Directors must be natural persons. No person shall be admitted as a Member unless they are simultaneously appointed as a Director under Article 6 or 7. Membership is strictly not transferable, and ceases automatically upon the Member's termination or removal as a Director under Articles 11, 12, or 13.
+17. **Limitation of Membership:** The statutory Membership of the Company is strictly limited to the current, legally appointed Directors of the Company.
 
-15. **Club Members** For the avoidance of doubt, the Company establishes non-statutory operational tiers (generally referred to as "Club Members") in the By-laws for individuals who pay dues to participate in the community and/or access premises maintained by the Company. Unless a Club Member has been explicitly appointed as a Director (and thereby a statutory Member) under Article 6, such operational affiliates do not constitute statutory Members of the Company under the Ordinance, are not liable for the guarantee, possess no statutory voting rights at General Meetings, and shall not be entered into the statutory Register of Members.
+18. **Admission:** No person shall be admitted as a Member unless they are simultaneously appointed as a Director under Article 8 or 10.
+
+19. **Non-Transferability:** Membership is strictly not transferable.
+
+20. **Cessation:** Membership ceases automatically upon the Member's termination or removal as a Director under Articles 14, 15, or 16.
+
+21. **Club Members:** For the avoidance of doubt, the Company establishes non-statutory operational tiers (generally referred to as "Club Members") in the By-laws for individuals who pay dues to participate in the community and/or access premises maintained by the Company. Unless a Club Member has been explicitly appointed as a Director (and thereby a statutory Member) under Article 8, such operational affiliates do not constitute statutory Members of the Company under the Ordinance, are not liable for the guarantee, possess no statutory voting rights at General Meetings, and shall not be entered into the statutory Register of Members.
 
 **Division 5: General Meetings**
 
-16. **Annual General Meeting (AGM):** An AGM must be held annually within the period prescribed by the Ordinance. Written Notice of at least 21 days to all Members is required. If a Special Resolution is to be proposed, the Written Notice must explicitly state the intention to propose the resolution as a special resolution.
+22. **Annual General Meeting (AGM):** An AGM must be held annually within the period prescribed by the Ordinance. Written Notice of at least 21 days to all Members is required. If a Special Resolution is to be proposed, the Written Notice must explicitly state the intention to propose the resolution as a special resolution.
 
-17. **Extraordinary General Meetings (EGM):** The Directors may call an EGM at any time. Furthermore, any Director may request the calling of an EGM in accordance with Section 566 of the Ordinance. An EGM requires a minimum of 14 days' Written Notice. If a Special Resolution is to be proposed, the Written Notice must explicitly state the intention to propose the resolution as a special resolution.
+23. **Extraordinary General Meetings (EGM):** The Directors may call an EGM at any time. Furthermore, any Director may request the calling of an EGM in accordance with Section 566 of the Ordinance. An EGM requires a minimum of 14 days' Written Notice. If a Special Resolution is to be proposed, the Written Notice must explicitly state the intention to propose the resolution as a special resolution.
 
-18. **Quorum:** No statutory business is to be transacted at a General Meeting if the persons attending do not constitute a quorum. If the Company has only one Member, one Member present in person or by proxy constitutes a quorum. If the Company has two or more Members, two Members present in person or by proxy constitute a quorum. For the avoidance of doubt, the quorum remains two (2) Members regardless of how many total Members the Company has above that number.
+24. **Quorum:** No statutory business is to be transacted at a General Meeting if the persons attending do not constitute a quorum. If the Company has only one Member, one Member present in person or by proxy constitutes a quorum. If the Company has two or more Members, two Members present in person or by proxy constitute a quorum. For the avoidance of doubt, the quorum remains two (2) Members regardless of how many total Members the Company has above that number.
 
-19. **Proxies:** A Member entitled to attend and vote at a General Meeting may appoint a proxy to attend and vote on their behalf. The appointment of a proxy must be a Written Notice and must include the meeting for which the proxy is valid. Such Written Notice shall be delivered to the Company Secretary no later than 48 hours before the time appointed for holding the meeting.
+25. **Proxies:** A Member entitled to attend and vote at a General Meeting may appoint a proxy to attend and vote on their behalf. The appointment of a proxy must be a Written Notice and must include the meeting for which the proxy is valid. Such Written Notice shall be delivered to the Company Secretary no later than 48 hours before the time appointed for holding the meeting.
 
-20. **Voting rights:** Every Member, whether present in person or by proxy, shall have exactly one (1) vote at any General Meeting. There shall be no exceptions, special voting rights, or weighted voting for any Member.
+26. **Voting rights:** Every Member, whether present in person or by proxy, shall have exactly one (1) vote at any General Meeting. There shall be no exceptions, special voting rights, or weighted voting for any Member.
 
-21. **Voting decisions:** At a General Meeting, decisions on statutory matters are made by Ordinary Resolution unless the Ordinance or these Articles specifically require a Special Resolution (such as for amending the Articles, altering the Company name, or voluntarily winding up).
+27. **Voting decisions:** At a General Meeting, decisions on statutory matters are made by Ordinary Resolution unless the Ordinance or these Articles specifically require a Special Resolution (such as for amending the Articles, altering the Company name, or voluntarily winding up).
 
 **Division 6: Administrative**
 
-22. **Company Secretary:** The Directors shall appoint and may remove a Company Secretary.
+28. **Company Secretary:** The Directors shall appoint and may remove a Company Secretary.
 
-23. **Indemnity:** Directors shall be indemnified out of the Company's assets against any liability incurred in their capacity as Directors, except where such liability arises from their own fraud, wilful default, or negligence.
+29. **Indemnity:** Directors shall be indemnified out of the Company's assets against any liability incurred in their capacity as Directors, except where such liability arises from their own fraud, wilful default, or negligence.
 
-24. **Accounts:** The Company shall maintain proper financial records as required by the Ordinance.
+30. **Accounts:** The Company shall maintain proper financial records as required by the Ordinance.
 
-25. **Auditors:** Auditors shall be appointed and their duties regulated in accordance with the Ordinance.
+31. **Auditors:** Auditors shall be appointed and their duties regulated in accordance with the Ordinance.
 
 ---
