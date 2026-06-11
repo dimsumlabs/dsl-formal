@@ -41,7 +41,7 @@ Every Member of the Company undertakes to contribute to the assets of the Compan
     *   "Verified" or "Verifiable" describes an action or an item of communication that can be unambiguously and correctly attributed to a person using the presence of a handwritten signature, an electronic signature, or via an electronic system or communication platform in which the identity of the person cannot trivially be forged.
     *   "Vote" refers to a formal expression of choice by a Member, which must be recorded via a Verifiable written instrument, a Verifiable electronic record, a Verified record in a designated electronic voting system, or a show of hands properly minuted at an in-person meeting.
     *   "Ordinary Resolution" means a resolution passed by a simple majority (more than 50%) of the Votes cast by Members present in person or by proxy at a General Meeting.
-    *   "Special Resolution" means a resolution passed by a majority of at least 75% of the Votes cast by Members present in person or by proxy at a General Meeting, provided that at least 14 days' Written Notice (in the case of an EGM) or 21 days' Written Notice (in the case of an AGM) of the intention to propose the resolution as a special resolution has been given to the Members.
+    *   "Special Resolution" means a resolution passed by a majority of at least 75% of the Votes cast by Members present in person or by proxy at a General Meeting.
     *   "Written Notice" includes communication delivered personally, sent by post or courier, or transmitted electronically via email or other Verifiable or secure digital platforms officially adopted by the Company for formal communication.
     
 **Division 2: Objects and Non-Profit Status**
@@ -101,9 +101,9 @@ Every Member of the Company undertakes to contribute to the assets of the Compan
 
 **Division 5: General Meetings**
 
-16. **Annual General Meeting (AGM):** An AGM must be held annually within the period prescribed by the Ordinance. Written Notice of at least 21 days to all Members is required.
+16. **Annual General Meeting (AGM):** An AGM must be held annually within the period prescribed by the Ordinance. Written Notice of at least 21 days to all Members is required. If a Special Resolution is to be proposed, the Written Notice must explicitly state the intention to propose the resolution as a special resolution.
 
-17. **Extraordinary General Meetings (EGM):** The Directors may call an EGM at any time. Furthermore, any Director may request the calling of an EGM in accordance with Section 566 of the Ordinance. An EGM requires a minimum of 14 days' Written Notice, including when the meeting is called to pass a Special Resolution.
+17. **Extraordinary General Meetings (EGM):** The Directors may call an EGM at any time. Furthermore, any Director may request the calling of an EGM in accordance with Section 566 of the Ordinance. An EGM requires a minimum of 14 days' Written Notice. If a Special Resolution is to be proposed, the Written Notice must explicitly state the intention to propose the resolution as a special resolution.
 
 18. **Quorum:** No statutory business is to be transacted at a General Meeting if the persons attending do not constitute a quorum. If the Company has only one Member, one Member present in person or by proxy constitutes a quorum. If the Company has two or more Members, two Members present in person or by proxy constitute a quorum. For the avoidance of doubt, the quorum remains two (2) Members regardless of how many total Members the Company has above that number.
 
