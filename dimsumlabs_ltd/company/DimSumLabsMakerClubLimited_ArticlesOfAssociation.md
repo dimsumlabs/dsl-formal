@@ -55,7 +55,7 @@ Every Member of the Company undertakes to contribute to the assets of the Compan
 
 5.  **General Authority:** Directors manage the Company's day-to-day operations, subject to the Ordinance, these Articles, and the By-laws.
 
-6.  **Appointment:** The office of Director and the status of Statutory Member are unified. A Club Member in good standing who is willing to act as a Director, and is permitted by law to do so, may be appointed to be a Director by Ordinary Resolution of the Members at an AGM or an EGM. Upon such appointment, the person shall simultaneously be entered into the Register of Members. A Director must remain a Club Member in good standing at all times.
+6.  **Appointment:** The office of Director and the status of Statutory Member are unified. All statutory Members and Directors must be natural persons. A Club Member in good standing who is willing to act as a Director, and is permitted by law to do so, may be appointed to be a Director by Ordinary Resolution of the Members at an AGM or an EGM. Upon such appointment, the person shall simultaneously be entered into the Register of Members. A Director must remain a Club Member in good standing at all times.
 
 7.  **Number of Directors:** The Company shall have at least two Directors. If the total number of Directors/Members falls below the statutory minimum of two (e.g., due to an event of Termination under Article 11), the continuing sole Director/Member may act, and forms a valid quorum of one, **only** for the purposes of appointing an eligible Club Member as a new Director/Member. The sole Director/Member may pass this appointment by a written Ordinary Resolution immediately, waiving all normal meeting notice periods. The sole Director/Member shall not transact any other statutory or operational business on behalf of the Company until the minimum number of two Directors/Members is restored.
 
@@ -94,7 +94,7 @@ Every Member of the Company undertakes to contribute to the assets of the Compan
 
 **Division 4: Members**
 
-14. **Unified Statutory Membership and Directorship:** The statutory Membership of the Company is strictly limited to the current, legally appointed Directors of the Company. No person shall be admitted as a Member unless they are simultaneously appointed as a Director under Article 6 or 7. Membership is strictly not transferable, and ceases automatically upon the Member's termination or removal as a Director under Articles 11, 12, or 13.
+14. **Unified Statutory Membership and Directorship:** The statutory Membership of the Company is strictly limited to the current, legally appointed Directors of the Company. All statutory Members and Directors must be natural persons. No person shall be admitted as a Member unless they are simultaneously appointed as a Director under Article 6 or 7. Membership is strictly not transferable, and ceases automatically upon the Member's termination or removal as a Director under Articles 11, 12, or 13.
 
 15. **Club Members** For the avoidance of doubt, the Company establishes non-statutory operational tiers (generally referred to as "Club Members") in the By-laws for individuals who pay dues to participate in the community and/or access premises maintained by the Company. Such operational affiliates do not constitute statutory Members of the Company under the Ordinance, are not liable for the guarantee, possess no statutory voting rights at General Meetings, and shall not be entered into the statutory Register of Members.
 
