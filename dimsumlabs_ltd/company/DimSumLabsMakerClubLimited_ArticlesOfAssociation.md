@@ -108,16 +108,18 @@ Every Member of the Company undertakes to contribute to the assets of the Compan
 
 19. **Proxies:** A Member entitled to attend and vote at a General Meeting may appoint a proxy to attend and vote on their behalf. The appointment of a proxy must be a Written Notice and must include the meeting for which the proxy is valid. Such Written Notice shall be delivered to the Company Secretary no later than 48 hours before the time appointed for holding the meeting.
 
-20. **Voting:** At a General Meeting, decisions on statutory matters are made by Ordinary Resolution unless the Ordinance or these Articles specifically require a Special Resolution (such as for amending the Articles, altering the Company name, or voluntarily winding up).
+20. **Voting rights:** Every Member, whether present in person or by proxy, shall have exactly one (1) vote at any General Meeting. There shall be no exceptions, special voting rights, or weighted voting for any Member.
+
+21. **Voting decisions:** At a General Meeting, decisions on statutory matters are made by Ordinary Resolution unless the Ordinance or these Articles specifically require a Special Resolution (such as for amending the Articles, altering the Company name, or voluntarily winding up).
 
 **Division 6: Administrative**
 
-21. **Company Secretary:** The Directors shall appoint and may remove a Company Secretary.
+22. **Company Secretary:** The Directors shall appoint and may remove a Company Secretary.
 
-22. **Indemnity:** Directors shall be indemnified out of the Company's assets against any liability incurred in their capacity as Directors, except where such liability arises from their own fraud, wilful default, or negligence.
+23. **Indemnity:** Directors shall be indemnified out of the Company's assets against any liability incurred in their capacity as Directors, except where such liability arises from their own fraud, wilful default, or negligence.
 
-23. **Accounts:** The Company shall maintain proper financial records as required by the Ordinance.
+24. **Accounts:** The Company shall maintain proper financial records as required by the Ordinance.
 
-24. **Auditors:** Auditors shall be appointed and their duties regulated in accordance with the Ordinance.
+25. **Auditors:** Auditors shall be appointed and their duties regulated in accordance with the Ordinance.
 
 ---
