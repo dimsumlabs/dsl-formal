@@ -33,7 +33,7 @@ Every Member of the Company undertakes to contribute to the assets of the Compan
     *   "Articles" means these Articles of Association.
     *   "By-laws" refers to the Operational By-laws adopted by the Directors and Members for day-to-day management.
     *   "Member" means a statutory member of the Company who has agreed to the guarantee and whose name is entered in the statutory Register of Members. Under these Articles, the office of Member and the office of Director are unified; every Member must be a Director, and "Membership" shall be construed accordingly.
-    *   "Club Member" refers to an operational affiliate who pays dues to access premises maintained by the Company or participate in the community, as governed by the By-laws, and who is specifically not a statutory Member of the Company.
+    *   "Club Member" refers to an operational affiliate who pays dues to access premises maintained by the Company or participate in the community, as governed by the By-laws. While all statutory Members must be Club Members, the status of Club Member alone does not confer statutory Membership in the Company.
     *   "General Meeting" means a meeting in which all Members and Directors shall meet to decide on Company matters.
     *   "AGM" means an Annual General Meeting.
     *   "EGM" means an Extraordinary General Meeting, being any General Meeting of the Members other than an AGM.
@@ -83,7 +83,7 @@ Every Member of the Company undertakes to contribute to the assets of the Compan
     *   (g) engages in gross negligence, dereliction of duty, or persistent failure to fulfill their statutory or fiduciary duties;
     *   (h) engages in grave misconduct that brings the Company into serious public disrepute; or
     *   (i) commits a material or persistent breach of these Articles or the By-laws.
-    
+
 13. **Removal Process:** To remove a Director (the "Director in Question") under Article 11(e) and Article 12, the following process must be followed in accordance with Section 462 of the Ordinance:
     *   (a) **Initiation:** The process may be initiated by any Member, or by a formal petition of Club Members meeting the threshold defined in the By-laws (the "Initiator").
     *   (b) **The Written Notice:** The Initiator must deliver a Written Notice to the Company Secretary (or to the remaining Directors if there is no Secretary). This Written Notice must explicitly state the intention to hold a vote to remove the Director in Question. It must contain the exact wording of the proposed Ordinary Resolution. It may contain rationale and evidence to support such Removal. This Written Notice must be delivered at least 28 days before the General Meeting where the Vote for the Ordinary Resolution for the Removal will happen ("the GM").
@@ -96,7 +96,7 @@ Every Member of the Company undertakes to contribute to the assets of the Compan
 
 14. **Unified Statutory Membership and Directorship:** The statutory Membership of the Company is strictly limited to the current, legally appointed Directors of the Company. All statutory Members and Directors must be natural persons. No person shall be admitted as a Member unless they are simultaneously appointed as a Director under Article 6 or 7. Membership is strictly not transferable, and ceases automatically upon the Member's termination or removal as a Director under Articles 11, 12, or 13.
 
-15. **Club Members** For the avoidance of doubt, the Company establishes non-statutory operational tiers (generally referred to as "Club Members") in the By-laws for individuals who pay dues to participate in the community and/or access premises maintained by the Company. Such operational affiliates do not constitute statutory Members of the Company under the Ordinance, are not liable for the guarantee, possess no statutory voting rights at General Meetings, and shall not be entered into the statutory Register of Members.
+15. **Club Members** For the avoidance of doubt, the Company establishes non-statutory operational tiers (generally referred to as "Club Members") in the By-laws for individuals who pay dues to participate in the community and/or access premises maintained by the Company. Unless a Club Member has been explicitly appointed as a Director (and thereby a statutory Member) under Article 6, such operational affiliates do not constitute statutory Members of the Company under the Ordinance, are not liable for the guarantee, possess no statutory voting rights at General Meetings, and shall not be entered into the statutory Register of Members.
 
 **Division 5: General Meetings**
 
