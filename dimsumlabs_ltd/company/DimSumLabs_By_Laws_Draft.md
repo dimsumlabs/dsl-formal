@@ -93,3 +93,17 @@ In addition to member dues, DSL may accept funding from external sources to supp
 As such, external funding is categorized as follows:
 *   **Sponsorships (Commercial Value-Exchange):** Corporations may sponsor tools, cover rent for physical space (e.g., "The [Company Name] Electronics Workstation"), or sponsor specific HackJam events. These are treated as B2B commercial sponsorships (which corporations write off as marketing/R&D/HR expenses). DSL will issue a standard commercial invoice for these.
 *   **Donations:** DSL accepts straightforward donations from individuals or entities; however, DSL does not issue Section 88 tax-deductible receipts for these.
+
+## 10. Access and Project Storage
+
+### 10.1. Access Control
+DSL maintains an electronic door access system for the premises. Paying Club Members are registered on the system and issued access credentials that correspond to their membership tier's permitted hours. The specific technical implementation (currently `door.dimsumlabs.com`) may be changed from time to time by the responsible members.
+
+### 10.2. Project Storage
+Space at the DSL premises is limited. Project storage is available on a first-come, first-served basis subject to the following rules:
+
+*   **Member Identifier:** Each Paying Club Member is assigned a unique identifier (typically their registered email address).
+*   **Storage Boxes:** All stored items must be kept inside a storage box or container.
+*   **Labeling:** Every storage box must be clearly marked with the member's assigned identifier.
+*   **Removal of Items:** Responsible members or Directors may, from time to time, clear and reorganize storage areas. However, no item may be removed or disposed of unless the owning member has first been notified via their registered contact method and given a reasonable period (not less than 14 days) to retrieve or re-label the item. Unmarked items or items belonging to former members whose membership has lapsed may be removed after reasonable attempts at notice.
+
