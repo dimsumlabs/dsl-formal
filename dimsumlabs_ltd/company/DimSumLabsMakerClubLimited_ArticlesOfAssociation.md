@@ -66,31 +66,31 @@ Every Member of the Company undertakes to contribute to the assets of the Compan
 10. **Adoption of By-Laws:** The Directors and Members shall have the power to adopt, amend, and repeal the By-laws for the day-to-day management of the community space.
 
 11. **Termination:** A person ceases to be a Director, and simultaneously ceases to be a Member, at the moment when the person:
-    (a) resigns the office by Written Notice delivered to the Company's registered office or to the Company Secretary;
-    (b) ceases to be a Director under the Ordinance or is prohibited from being a Director by law;
-    (c) is found guilty of a criminal offence under the laws of Hong Kong;
-    (d) becomes bankrupt under Cap. 6 Bankruptcy Ordinance;
-    (e) is removed from the office of Director by an Ordinary Resolution of the Members at an AGM or EGM; or
-    (f) dies.
+    *   (a) resigns the office by Written Notice delivered to the Company's registered office or to the Company Secretary;
+    *   (b) ceases to be a Director under the Ordinance or is prohibited from being a Director by law;
+    *   (c) is found guilty of a criminal offence under the laws of Hong Kong;
+    *   (d) becomes bankrupt under Cap. 6 Bankruptcy Ordinance;
+    *   (e) is removed from the office of Director by an Ordinary Resolution of the Members at an AGM or EGM; or
+    *   (f) dies.
 
 12. **Removal:** A Director may be removed from office by an Ordinary Resolution at an AGM or EGM if the Director:
-    (a) becomes a person suffering from Mental Incapacity as defined by section 2(1) of the Mental Health Ordinance (Cap. 136);
-    (b) is incommunicado, or has been absent, without any Director's consent, from Directors' meetings, or from any of their day-to-day duties as a Director, expressed or implied, for a continuous period of six months;
-    (c) ceases to be a Club Member in good standing;
-    (d) commits any fraudulent activity, theft, or misappropriation of Company funds or assets;
-    (e) improperly receives or attempts to receive remuneration or unauthorized financial benefits from the Company in violation of Article 8;
-    (f) fails to declare a material conflict of interest, or engages in undisclosed self-dealing that harms the Company;
-    (g) engages in gross negligence, dereliction of duty, or persistent failure to fulfill their statutory or fiduciary duties;
-    (h) engages in grave misconduct that brings the Company into serious public disrepute; or
-    (i) commits a material or persistent breach of these Articles or the By-laws.
+    *   (a) becomes a person suffering from Mental Incapacity as defined by section 2(1) of the Mental Health Ordinance (Cap. 136);
+    *   (b) is incommunicado, or has been absent, without any Director's consent, from Directors' meetings, or from any of their day-to-day duties as a Director, expressed or implied, for a continuous period of six months;
+    *   (c) ceases to be a Club Member in good standing;
+    *   (d) commits any fraudulent activity, theft, or misappropriation of Company funds or assets;
+    *   (e) improperly receives or attempts to receive remuneration or unauthorized financial benefits from the Company in violation of Article 8;
+    *   (f) fails to declare a material conflict of interest, or engages in undisclosed self-dealing that harms the Company;
+    *   (g) engages in gross negligence, dereliction of duty, or persistent failure to fulfill their statutory or fiduciary duties;
+    *   (h) engages in grave misconduct that brings the Company into serious public disrepute; or
+    *   (i) commits a material or persistent breach of these Articles or the By-laws.
     
 13. **Removal Process:** To remove a Director (the "Director in Question") under Article 11(e) and Article 12, the following process must be followed in accordance with Section 462 of the Ordinance:
-    (a) **Initiation:** The process may be initiated by any Member, or by a formal petition of Club Members meeting the threshold defined in the By-laws (the "Initiator").
-    (b) **The Written Notice:** The Initiator must deliver a Written Notice to the Company Secretary (or to the remaining Directors if there is no Secretary). This Written Notice must explicitly state the intention to hold a vote to remove the Director in Question. It must contain the exact wording of the proposed Ordinary Resolution. It may contain rationale and evidence to support such Removal. This Written Notice must be delivered at least 28 days before the General Meeting where the Vote for the Ordinary Resolution for the Removal will happen ("the GM").
-    (c) **Informing the Target:** Immediately upon receiving the Written Notice, the Company Secretary or remaining Directors must send a copy of it to the Director in Question via any known means of contact for the Director in Question.
-    (d) **The Right to Defend:** The Director in Question has the right to speak at the GM in which the Resolution for Removal is to be Voted upon. They may elect to submit written representations to the Company Secretary or remaining Directors in advance of the GM.
-    (e) **Informing the Members:** If the Director in Question provides a written defense before invitations for the GM are sent, the Company Secretary or remaining Directors must include the defense in the invitation to the GM being sent to all Members, along with proposed Resolutions. If the Director in Question provides a written defense 72 hours before the start of the GM, the Company Secretary or remaining Directors must make their best effort to distribute the written defense to all Members before or during the GM.
-    (f) **The Vote:** The removal is finalized if and when the proposed Ordinary Resolution passes at the General Meeting.
+    *   (a) **Initiation:** The process may be initiated by any Member, or by a formal petition of Club Members meeting the threshold defined in the By-laws (the "Initiator").
+    *   (b) **The Written Notice:** The Initiator must deliver a Written Notice to the Company Secretary (or to the remaining Directors if there is no Secretary). This Written Notice must explicitly state the intention to hold a vote to remove the Director in Question. It must contain the exact wording of the proposed Ordinary Resolution. It may contain rationale and evidence to support such Removal. This Written Notice must be delivered at least 28 days before the General Meeting where the Vote for the Ordinary Resolution for the Removal will happen ("the GM").
+    *   (c) **Informing the Target:** Immediately upon receiving the Written Notice, the Company Secretary or remaining Directors must send a copy of it to the Director in Question via any known means of contact for the Director in Question.
+    *   (d) **The Right to Defend:** The Director in Question has the right to speak at the GM in which the Resolution for Removal is to be Voted upon. They may elect to submit written representations to the Company Secretary or remaining Directors in advance of the GM.
+    *   (e) **Informing the Members:** If the Director in Question provides a written defense before invitations for the GM are sent, the Company Secretary or remaining Directors must include the defense in the invitation to the GM being sent to all Members, along with proposed Resolutions. If the Director in Question provides a written defense 72 hours before the start of the GM, the Company Secretary or remaining Directors must make their best effort to distribute the written defense to all Members before or during the GM.
+    *   (f) **The Vote:** The removal is finalized if and when the proposed Ordinary Resolution passes at the General Meeting.
 
 **Division 4: Members**
 
