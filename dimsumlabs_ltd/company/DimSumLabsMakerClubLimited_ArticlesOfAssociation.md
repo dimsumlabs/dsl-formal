@@ -77,7 +77,7 @@ Every Member of the Company undertakes to contribute to the assets of the Compan
     *   (b) ceases to be a Director under the Ordinance or is prohibited from being a Director by law;
     *   (c) is found guilty of a criminal offence under the laws of Hong Kong;
     *   (d) becomes bankrupt under Cap. 6 Bankruptcy Ordinance;
-    *   (e) is removed from the office of Director by an Ordinary Resolution of the Members at an AGM or EGM; or
+    *   (e) is removed from the office of Director by an Ordinary Resolution of the Members at a General Meeting; or
     *   (f) dies.
 
 15. **Removal:** A Director may be removed from office by an Ordinary Resolution at an AGM or EGM if the Director:
@@ -96,7 +96,7 @@ Every Member of the Company undertakes to contribute to the assets of the Compan
     *   (b) **The Written Notice:** The Initiator must deliver a Written Notice to the Company Secretary (or to the remaining Directors if there is no Secretary). This Written Notice must explicitly state the intention to hold a vote to remove the Director in Question. It must contain the exact wording of the proposed Ordinary Resolution. It may contain rationale and evidence to support such Removal. This Written Notice must be delivered at least 28 days before the General Meeting where the Vote for the Ordinary Resolution for the Removal will happen ("the GM").
     *   (c) **Informing the Target:** Immediately upon receiving the Written Notice, the Company Secretary or remaining Directors must send a copy of it to the Director in Question via any known means of contact for the Director in Question.
     *   (d) **The Right to Defend:** The Director in Question has the right to speak at the GM in which the Resolution for Removal is to be Voted upon. They may elect to submit written representations to the Company Secretary or remaining Directors in advance of the GM.
-    *   (e) **Informing the Members:** If the Director in Question provides a written defense before invitations for the GM are sent, the Company Secretary or remaining Directors must include the defense in the invitation to the GM being sent to all Members, along with proposed Resolutions. If the Director in Question provides a written defense 72 hours before the start of the GM, the Company Secretary or remaining Directors must make their best effort to distribute the written defense to all Members before or during the GM.
+    *   (e) **Informing the Members:** If the Director in Question provides a written defense before Written Notice for the GM are made, the Company Secretary or remaining Directors must include the defense in the Written Notice for the GM being sent to all Members, together with the proposed Resolution for the Removal. If the Director in Question provides a written defense 72 hours before the appointed time of the GM, the Company Secretary or remaining Directors must make their best effort to distribute the written defense to all Members before or during the GM.
     *   (f) **The Vote:** The removal is finalized if and when the proposed Ordinary Resolution passes at the General Meeting.
 
 **Division 4: Members**
