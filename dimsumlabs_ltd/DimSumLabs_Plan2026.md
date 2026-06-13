@@ -5,6 +5,8 @@
 **Date:** 13 June 2026
 **Version:** 0.1
 
+*This document is a living plan. It will be updated as decisions are made and milestones are reached. Comments, disagreements, and alternative proposals are welcome.*
+
 ---
 
 ## 1. Objective
@@ -16,8 +18,6 @@ The AoA must be adopted and filed with the Companies Registry within a reasonabl
 ---
 
 ## 2. Timeline
-
-*This section is placed prominently upfront to signal that this document is about getting things done, not endless debate. Deadlines focus the mind. If a design decision is blocking progress, escalate it — don't let it stall the timeline.*
 
 | Milestone | Target Date | Owner |
 |-----------|-------------|-------|
@@ -247,4 +247,3 @@ The previous AoA draft (February–June 2026), with its unified Member/Director 
 
 ---
 
-*This document is a living plan. It will be updated as decisions are made and milestones are reached. Comments, disagreements, and alternative proposals are welcome — that's the whole point.*
