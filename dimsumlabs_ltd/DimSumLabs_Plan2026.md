@@ -215,7 +215,7 @@ Under Hong Kong company law, Directors manage the company and Members are its st
 | **Statutory voting base** | Unknown | Broader | Narrow |
 | **Director liability exposure** | Uncontrolled | Controlled | Controlled |
 
-**Analysis:** Model A is rejected as unfit for a community hackerspace — it allows complete outsiders to control the company. The real choice is between Model B and Model C. Model B gives more people a statutory voice (Statutory Member voting rights without director liability) but creates a two-class statutory structure. Model C is simpler — one statutory role — but concentrates power and excludes Club Members from statutory decision-making.
+**Analysis:** Model A should be rejected as unfit for a community hackerspace — it allows complete outsiders to control the company. The real choice is between Model B and Model C. Model B gives more people a statutory voice (Statutory Member voting rights without director liability) but creates a two-class statutory structure. Model C is simpler — one statutory role — but concentrates power and excludes Club Members from statutory decision-making.
 
 **Recommendation:** The team should choose between Model B and Model C. The previous draft chose Model C. This document does not prescribe the answer — it frames the choice, with Model A clearly marked as unacceptable.
 
