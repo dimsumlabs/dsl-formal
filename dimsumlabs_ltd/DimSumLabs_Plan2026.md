@@ -86,10 +86,18 @@ On 13 June 2026, the core team (Jay, Iulian, Japheth) met and agreed:
 
 ## 5. Non-Goals
 
-- **Not** a charitable (s.88) registration — the entity is a non-profit CLG, not an IRD-approved charity (though the AoA should not preclude future s.88 application).
-- **Not** a tradable or investor-backed entity — there are no shares, no dividends, no exit.
-- **Not** a detailed operations manual — the By-laws handle day-to-day rules, not the AoA.
-- **Not** a replacement for community consensus — the AoA provides a safety net for when consensus fails, not a substitute for it.
+This Design Document — and the AoA/By-laws drafting project it governs — is narrowly scoped to governance design. The following are explicitly out of scope, even though they are related and important:
+
+- **Signing the lease.** This is a parallel operational track. The lease may be signed by the existing Code and Make entity before the new AoA is adopted. This document does not block or govern the lease.
+- **Setting up bank accounts, payments, or financial infrastructure.** These are operational tasks that depend on having a registered entity, but are not part of governance design.
+- **Recruiting or appointing directors.** This document designs the *mechanism* for director appointment. It does not select who the directors are. That is a separate community process.
+- **Day-to-day space operations.** The By-laws will cover operational rules; even then, this document is about designing the rules, not executing them. Things like tool maintenance, cleaning rosters, event scheduling, and equipment purchasing are operational, not governance.
+- **Fundraising, sponsorship, or grant applications.** These are downstream activities enabled by good governance, but are not part of this design process.
+- **Website, branding, or communications infrastructure.** Out of scope.
+- **Resolving historical disputes or airing past grievances.** This is a forward-looking design process. The email discussion that led here has been resolved. We are building the framework for the future, not litigating the past.
+- **Membership drives or community outreach.** This document designs the membership structure. Recruiting people into it is a separate activity.
+
+If something needs doing that isn't governance design, ask: "Does this need to be decided before we can finish the AoA and By-laws?" If yes, it should be handled as a parallel track with its own owner. If no, it can wait.
 
 ---
 
