@@ -101,9 +101,41 @@ If something needs doing that isn't governance design, ask: "Does this need to b
 
 ---
 
-## 6. Design
+## 6. Definition of Done
 
-### 6.1 Architecture Overview
+This governance design project is complete when:
+
+1. **The AoA is adopted and filed** with the Companies Registry.
+2. **The initial By-laws are adopted** by the community.
+
+The AoA is a defined deliverable — 57 articles from the Model Articles baseline, amended with the design decisions from this document. It is done when it's filed.
+
+The By-laws are a living document — amendable by Ordinary Resolution, expected to evolve. They will never be "perfect." The definition of done for the initial By-laws is:
+
+> **The initial By-laws comprehensively codify all known existing practices of the space, and cover every operational domain listed in the Architecture (section 7.1).**
+
+This means:
+
+- **Membership:** Tiers, dues, admission, good-standing criteria, termination — as currently practiced or as explicitly designed.
+- **Code of conduct:** Existing community norms, written down.
+- **Space access:** Keys, hours, guest policies — what we already do.
+- **Do-ocracy roles:** Working groups, project leads, hackjam hosts — formalized from existing informal practice.
+- **Financial policies:** Budgeting, reimbursements, bank signatories — codifying what we know.
+- **Project storage:** Access control, duration limits — practices already discussed and partially implemented.
+- **Gridlock resolution:** What happens when consensus fails — enough to prevent deadlock.
+- **Meeting formats:** Community meetings, AGM procedures — documented.
+- **Equipment & tools:** Safety rules, authorization, maintenance — as practiced.
+- **Guest & visitor policies:** What we already do.
+
+The initial By-laws do not need to solve every hypothetical future scenario. They do not need to be elegant. They need to be *complete enough* that a new member can read them and understand how the space works, and a dispute can be resolved by reference to them. After adoption, improvements are normal operations, not part of this project.
+
+Once both documents are adopted, this Design Document is retired and the project is closed.
+
+---
+
+## 7. Design
+
+### 7.1 Architecture Overview
 
 The governance framework is a two-document system:
 
@@ -148,7 +180,7 @@ The governance framework is a two-document system:
 └──────────────────────────────────────┘
 ```
 
-### 6.2 Key Design Decisions
+### 7.2 Key Design Decisions
 
 #### Decision 1: Separate Member and Director classes vs. Unified
 
@@ -206,7 +238,7 @@ The Model Articles allow anyone to become a Member by application approved by Di
 
 ---
 
-## 7. Alternatives Considered
+## 8. Alternatives Considered
 
 | Alternative | Evaluation |
 |-------------|-----------|
@@ -219,7 +251,7 @@ The Model Articles allow anyone to become a Member by application approved by Di
 
 ---
 
-## 8. Risks and Mitigations
+## 9. Risks and Mitigations
 
 | Risk | Severity | Mitigation |
 |------|----------|-----------|
@@ -231,7 +263,7 @@ The Model Articles allow anyone to become a Member by application approved by Di
 
 ---
 
-## 9. Open Questions
+## 10. Open Questions
 
 1. **Name:** "Dim Sum Labs Social Club Limited" vs. "Dim Sum Labs Maker Club Limited" vs. something else?
 2. **Member structure:** Unified (Member = Director) or separate classes?
