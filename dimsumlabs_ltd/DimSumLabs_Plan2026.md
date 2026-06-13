@@ -268,7 +268,18 @@ The Model Articles allow director remuneration by Ordinary Resolution. The previ
 
 **Context:** The core team driving this reboot (Jay, Iulian, Nigel) are all currently without stable income. Personal financial sustainability is not a distraction from DSL's mission — it is a prerequisite for sustained effort. A governance model that requires people to work for free will select for people who can afford to work for free.
 
-**The question:** Can Dim Sum Labs operate as a **social enterprise** — where income flows to the space first, and individuals can earn from it through transparent, community-approved mechanisms?
+**What other hackerspaces do:** [Full research: `2026_reboot/research/hackerspace-compensation-models.md`]
+
+The overwhelming pattern is all-volunteer, but with notable exceptions and common middle-ground practices:
+
+- **Almost nobody pays directors for being directors.** Governance is universally volunteer.
+- **Class/workshop revenue sharing is standard** — instructor gets a cut, space gets a cut. Uncontroversial.
+- **Membership waivers for contributors** — "you host Hackjams, your dues are free" — widely practiced.
+- **Professional services as contractor** — if a director is also a lawyer, accountant, or IT professional, the space can pay them for those specific services with proper recusal and community approval.
+- **Paid space managers exist** at larger spaces (Dallas Makerspace, some European spaces) but as employees/contractors, not directors.
+- **The cautionary tale:** Artisan's Asylum (Boston) tried a fully commercial paid-staff model at scale — it collapsed financially in 2024. Spaces that stay purely volunteer (Noisebridge) risk burnout. The sustainable middle is occasional, transparent, community-approved compensation for specific work.
+
+**The question:** Can Dim Sum Labs operate as a **social enterprise** — where income flows to the space first, and individuals can earn from specific contributions (workshops, professional services, space management) through transparent, community-approved mechanisms?
 
 **Possible model:**
 
