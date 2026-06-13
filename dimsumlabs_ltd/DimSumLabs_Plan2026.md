@@ -262,9 +262,25 @@ The following table shows what goes where, now with the amendment mechanism incl
 
 Code and Make Limited → rename to **Dim Sum Labs Social Club Limited** (or **Dim Sum Labs Maker Club Limited**). The choice of "Social Club" vs. "Maker Club" affects the perceived nature of the entity and may affect licensing. This should be discussed.
 
-#### Decision 4: Director remuneration
+#### Decision 4: Director remuneration and social enterprise model
 
-The Model Articles allow director remuneration by Ordinary Resolution. For a community hackerspace, many members feel directors should serve voluntarily. The previous draft prohibited remuneration. This is a values decision.
+The Model Articles allow director remuneration by Ordinary Resolution. The previous draft prohibited it entirely. This decision deserves honest discussion rather than a reflexive prohibition.
+
+**Context:** The core team driving this reboot (Jay, Iulian, Nigel) are all currently without stable income. Personal financial sustainability is not a distraction from DSL's mission — it is a prerequisite for sustained effort. A governance model that requires people to work for free will select for people who can afford to work for free.
+
+**The question:** Can Dim Sum Labs operate as a **social enterprise** — where income flows to the space first, and individuals can earn from it through transparent, community-approved mechanisms?
+
+**Possible model:**
+
+1. **Space-first income:** All revenue (dues, donations, event fees, grants, sponsorships) goes to the Company. Space expenses (rent, utilities, insurance, maintenance) are paid first.
+2. **Community-approved compensation:** Any payment to Directors or members for services rendered — teaching workshops, providing professional services (IT, legal, accounting), managing the space, running programmes — is approved by the community through the By-laws process.
+3. **Transparency:** All compensation is recorded and reported. No self-dealing. Directors recuse themselves from approving their own compensation.
+4. **AoA posture:** The AoA can either (a) stay silent, leaving the Model Articles default (remuneration allowed by Ordinary Resolution), or (b) explicitly permit remuneration with safeguards. Prohibition is a third option but may not serve the community's reality.
+5. **By-laws safeguards:** The By-laws define the approval process, disclosure requirements, and limits — not the AoA. This keeps the safeguards in the amendable, community-driven document.
+
+**Trade-off:** Allowing director compensation creates a personal incentive to grow the space and its programmes. It also creates a conflict of interest risk. The question is whether the community trusts itself to manage that risk through transparent process, or prefers to prohibit it constitutionally and risk burning out unfunded volunteers.
+
+This is not a hypothetical. The same question faces many hackerspaces and community organisations. The answer depends on the community's values and the reality of who is doing the work.
 
 #### Decision 5: Membership gates
 
@@ -301,7 +317,7 @@ The Model Articles allow anyone to become a Statutory Member by application appr
 
 1. **Name:** "Dim Sum Labs Social Club Limited" vs. "Dim Sum Labs Maker Club Limited" vs. something else?
 2. **Member structure:** Model A (separate — rejected as unfit), Model B (overlap: Directors must be Statutory Members + Club Members, Statutory Members can exceed Directors), or Model C (unified: Statutory Member = Director)?
-3. **Director remuneration:** Prohibited or permitted by resolution?
+3. **Director remuneration / social enterprise:** Should the AoA prohibit director remuneration, permit it with By-laws safeguards, or stay silent (Model Articles default allows it by Ordinary Resolution)? If permitted, what safeguards (space-first income, community approval, transparency, recusal)?
 4. **Minimum Director count:** 2 or 3 or more?
 5. **Club Member voting on By-laws:** What process should be used for By-laws amendments? Consensus? Simple majority vote of Club Members? Quorum requirements? (The principle is settled: By-laws changes are a community-driven process, not a General Meeting. The specifics need to be designed.)
 6. **Director term limits:** Fixed terms (e.g., 2 years) or indefinite until resignation/removal?
