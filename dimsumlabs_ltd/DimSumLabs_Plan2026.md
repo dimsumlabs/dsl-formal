@@ -34,9 +34,9 @@ The AoA must be adopted and filed with the Companies Registry within a reasonabl
 | **AoA reviewed by HK company lawyer** | Early July 2026 | DSL Team |
 | **AoA adopted by a reasonable group of Club Members or Special Resolution of Code and Make** | Mid-July 2026 | DSL Members |
 | **AoA filed with Companies Registry** | Late-July 2026 | Company Secretary |
-| **By-laws first draft** | Mid June 2026 | DSL Team |
-| **By-laws ongoing working meetings** | Mid June-Mid September 2026 | DSL Team |
-| **By-laws adopted** | Mid-September 2026 | DSL Members |
+| **Initial By-laws first draft** | Mid June 2026 | DSL Team |
+| **Initial By-laws ongoing working meetings** | Mid June-Mid September 2026 | DSL Team |
+| **Initial By-laws adopted** | Mid-September 2026 | DSL Members |
 
 ---
 
@@ -94,7 +94,7 @@ This Design Document — and the AoA/By-laws drafting project it governs — is 
 - **Day-to-day space operations.** The By-laws will cover operational rules; even then, this document is about designing the rules, not executing them. Things like tool maintenance, cleaning rosters, event scheduling, and equipment purchasing are operational, not governance.
 - **Fundraising, sponsorship, or grant applications.** These are downstream activities enabled by good governance, but are not part of this design process.
 - **Website, branding, or communications infrastructure.** Out of scope.
-- **Resolving historical disputes or airing past grievances.** This is a forward-looking design process. The email discussion that led here has been resolved. We are building the framework for the future, not litigating the past.
+- **Resolving historical disputes or airing past grievances.** This is a forward-looking design process. We are building the framework for the future, not litigating the past.
 - **Membership drives or community outreach.** This document designs the membership structure. Recruiting people into it is a separate activity.
 
 If something needs doing that isn't governance design, ask: "Does this need to be decided before we can finish the AoA and By-laws?" If yes, it should be handled as a parallel track with its own owner. If no, it can wait.
@@ -126,24 +126,25 @@ The governance framework is a two-document system:
 │    accounts, auditors, seals         │
 └──────────────┬───────────────────────┘
                │ delegates operational
-               │ authority to
+               │ rules to
                ▼
 ┌──────────────────────────────────────┐
 │            BY-LAWS                   │
-│  (Operational, adopted by Directors  │
-│   & Members. Amended by Ordinary     │
-│   Resolution. Living document.)      │
+│  (Operational, adopted by Directors, │
+│   Statutory & Club Members.          │
+│   Living document.)                  │
 │                                      │
 │  • Club Member tiers, dues, access   │
+│  • Do-ocracy roles & responsibilities│
 │  • Code of conduct                   │
 │  • Space usage rules                 │
-│  • Do-ocracy roles & responsibilities│
-│  • Financial policies & budgets      │
-│  • Project storage & access control  │
-│  • Gridlock resolution procedures    │
-│  • Community meeting formats         │
-│  • Equipment & tool policies         │
 │  • Guest & visitor policies          │
+│  • Financial policies & budgets      │
+│  • Community meeting formats         │
+│  • Gridlock resolution procedures    │
+│  • Equipment & tool policies         │
+│  • Project storage & access control  │
+│  • etc...                            │
 └──────────────────────────────────────┘
 ```
 
