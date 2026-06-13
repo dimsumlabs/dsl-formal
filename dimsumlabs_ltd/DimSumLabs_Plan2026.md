@@ -150,8 +150,8 @@ The governance framework is a two-document system:
 │  • Objects & non-profit lock         │
 │  • Directors: appointment, removal,  │
 │    powers, liability, indemnity      │
-│  • Members: who they are, how they   │
-│    join/leave, voting rights         │
+│  • Statutory Members: who they are,  │
+│    how they join/leave, voting rights│
 │  • General Meetings: AGM, EGM,       │
 │    quorum, notice, proxies           │
 │  • Administrative: secretary,        │
@@ -190,14 +190,14 @@ Under Hong Kong company law, Directors manage the company and Members are its st
 - Directors can be complete outsiders — no requirement to be a Member or Club Member.
 - Members join by application approved by Directors; no requirement to be Club Members or Directors.
 - Club Members are not recognised in the AoA at all.
-- Result: a Director who has never set foot in the space can control the company. Members can be passive names on a register. The community has no constitutional standing.
+- Result: a Director who has never set foot in the space can control the company. Statutory Members can be passive names on a register. The community has no constitutional standing.
 
 **Model B: Overlap with broader membership (middle ground)**
 - Every Director MUST be a Statutory Member and a Club Member. No outsiders.
 - Statutory Members can be more numerous than Directors. Being a Member gives you voting rights at General Meetings without carrying full director liability.
-- Directors are drawn from the Member pool.
+- Directors are drawn from the Statutory Member pool.
 - Club Members (dues-paying community) can become Statutory Members without becoming Directors.
-- Result: Directors are accountable to a broader Member base. Community members can have a statutory voice (voting rights) without the legal burden of directorship.
+- Result: Directors are accountable to a broader Statutory Member base. Community members can have a statutory voice (voting rights) without the legal burden of directorship.
 
 **Model C: Complete unification (previous draft)**
 - Every Statutory Member IS a Director, and every Director IS a Statutory Member.
@@ -207,15 +207,15 @@ Under Hong Kong company law, Directors manage the company and Members are its st
 
 | | Model A (current) | Model B (overlap) | Model C (unified) |
 |---|---|---|---|
-| **Directors must be Members** | No | Yes | Yes |
+| **Directors must be Statutory Members** | No | Yes | Yes |
 | **Directors must be Club Members** | No | Yes | Yes |
-| **Members can exceed Directors** | Yes | Yes | No |
-| **Club Members can be Members** | N/A | Yes | No (separate tier) |
+| **Statutory Members can exceed Directors** | Yes | Yes | No |
+| **Club Members can be Statutory Members** | N/A | Yes | No (separate tier) |
 | **Outsider directors possible** | Yes | No | No |
 | **Statutory voting base** | Unknown | Broader | Narrow |
 | **Director liability exposure** | Uncontrolled | Controlled | Controlled |
 
-**Analysis:** Model A is rejected as unfit for a community hackerspace — it allows complete outsiders to control the company. The real choice is between Model B and Model C. Model B gives more people a statutory voice (Member voting rights without director liability) but creates a two-class statutory structure. Model C is simpler — one statutory role — but concentrates power and excludes Club Members from statutory decision-making.
+**Analysis:** Model A is rejected as unfit for a community hackerspace — it allows complete outsiders to control the company. The real choice is between Model B and Model C. Model B gives more people a statutory voice (Statutory Member voting rights without director liability) but creates a two-class statutory structure. Model C is simpler — one statutory role — but concentrates power and excludes Club Members from statutory decision-making.
 
 **Recommendation:** The team should choose between Model B and Model C. The previous draft chose Model C. This document does not prescribe the answer — it frames the choice, with Model A clearly marked as unacceptable.
 
@@ -231,7 +231,7 @@ The AoA should contain only what is **constitutionally necessary**: things that 
 | Dissolution asset lock | ✓ | |
 | Director appointment/removal mechanics | ✓ | |
 | Director liability & indemnity | ✓ | |
-| Member definition & rights | ✓ | |
+| Statutory Member definition & rights | ✓ | |
 | AGM/EGM requirements | ✓ | |
 | Quorum & voting thresholds | ✓ | |
 | Club Member tiers & dues | | ✓ |
@@ -251,7 +251,7 @@ The Model Articles allow director remuneration by Ordinary Resolution. For a com
 
 #### Decision 5: Membership gates
 
-The Model Articles allow anyone to become a Member by application approved by Directors. If we move to a unified model, membership must be linked to directorship. If we keep separate classes, we need to decide: who can be a Member? All dues-paying Club Members? A subset?
+The Model Articles allow anyone to become a Statutory Member by application approved by Directors. Depending on the model chosen (Decision 1), we need to decide: who can become a Statutory Member? All dues-paying Club Members? A subset? Must Statutory Members also be Directors (Model C) or can they be separate (Model B)?
 
 ---
 
@@ -273,7 +273,7 @@ The Model Articles allow anyone to become a Member by application approved by Di
 | Risk | Severity | Mitigation |
 |------|----------|-----------|
 | **Stakeholder disagreement delays AoA adoption beyond lease deadline** | High | Sign lease with existing Code and Make entity. AoA can be adopted after. |
-| **Unified Model (Model C) leads to governance bottleneck (too few people)** | Medium | Set minimum Director count at 3+. By-laws allow broad community participation without statutory burden. Model B avoids this risk by allowing Members to exceed Directors. |
+| **Unified Model (Model C) leads to governance bottleneck (too few people)** | Medium | Set minimum Director count at 3+. By-laws allow broad community participation without statutory burden. Model B avoids this risk by allowing Statutory Members to exceed Directors. |
 | **By-laws never get written (AoA-only governance)** | Medium | Set 3-month hard deadline. Appoint By-laws drafting committee. |
 | **Name change rejected by Companies Registry** | Low | Pre-clear with CR. Have backup names. |
 | **Future s.88 application blocked by AoA wording** | Medium | Include standard income/dissolution clauses compliant with IRD requirements. |
@@ -283,7 +283,7 @@ The Model Articles allow anyone to become a Member by application approved by Di
 ## 10. Open Questions
 
 1. **Name:** "Dim Sum Labs Social Club Limited" vs. "Dim Sum Labs Maker Club Limited" vs. something else?
-2. **Member structure:** Model A (separate — rejected as unfit), Model B (overlap: Directors must be Members + Club Members, Members can exceed Directors), or Model C (unified: Member = Director)?
+2. **Member structure:** Model A (separate — rejected as unfit), Model B (overlap: Directors must be Statutory Members + Club Members, Statutory Members can exceed Directors), or Model C (unified: Statutory Member = Director)?
 3. **Director remuneration:** Prohibited or permitted by resolution?
 4. **Minimum Director count:** 2 or 3 or more?
 5. **Club Member voting:** Should Club Members have any formal voting rights (e.g., for By-laws amendments, Director elections), or are they purely operational participants?
