@@ -23,6 +23,8 @@ The AoA must be adopted and filed with the Companies Registry within a reasonabl
 
 **Decision-making:** Pending formal adoption of the AoA, decisions are made by consensus of those who show up to DSL meetings. "DSL Team" in the timeline below means whoever actively participates in the reboot process. Once the AoA is adopted, statutory decisions follow the voting procedures defined therein; operational decisions follow the By-laws. Until then: show up, have a say.
 
+*Note: Japheth proposed drafting the By-laws first and deriving the AoA from them. While the AoA is the statutory prerequisite for bank accounts, name changes, and formal registration, the spirit of the proposal — that the By-laws should inform the AoA, not the other way around — is adopted. By-laws drafting starts concurrently with AoA re-drafting, and AoA decisions should be tested against the question: "Does this serve the community as described in the By-laws?"*
+
 | Milestone | Target Date | Owner |
 |-----------|-------------|-------|
 | **Design Document circulated for discussion** | 14 June 2026 | Jay |
@@ -301,14 +303,35 @@ The Model Articles allow anyone to become a Statutory Member by application appr
 
 ## 8. Alternatives Considered
 
-| Alternative | Evaluation |
-|-------------|-----------|
-| **Keep the old Code and Make AoA unchanged** | No non-profit protections, no objects clause, no community governance philosophy. Works for the lease but doesn't serve DSL's long-term needs. |
-| **Adopt the previous draft AoA as-is** | Architecturally sound but produced without sufficient broader discussion. Risk of stakeholder alienation. |
-| **Operate as an unincorporated association** | Simplest but no legal entity for lease/banking. Directors personally liable. Rejected. |
-| **Become a charitable trust** | Heavy regulatory overhead. Premature. |
-| **Separate operating company + community association** | Over-engineered for current scale. Rejected. |
-| **Draft By-laws first, derive AoA from them** | Proposed by Japheth. Pro: ensures the legal structure serves the community, not vice versa. Con: delays statutory filing (the AoA is the prerequisite for bank accounts, name change, etc.). Partially adopted: By-laws drafting starts concurrently with AoA re-drafting; the AoA should be informed by By-laws discussions, not written in isolation. |
+### 8.1 Keep the existing Code and Make entity and fix it
+
+Rather than forming a new company, we could keep Code and Make Limited (CR No. 2722724), recuse Philip Paeps as director, appoint new directors (Jay, Nigel, others), and amend its AoA to whatever we want. The existing entity already holds the lease, the bank account, and the statutory standing.
+
+**Why this was ruled out:** Code and Make has accumulated significant paperwork rot — audits not done, tax filings not submitted, annual returns possibly outstanding. Taking over this entity means inheriting its compliance liabilities. Resolving these could take months and cost more than forming a new company. Everyone involved (Philip, Jay, Iulian, Nigel) agreed this is not worth the burden. A clean start is preferable.
+
+### 8.2 Adopt the previous custom AoA draft as-is
+
+The February–June 2026 draft introduced a unified Member/Director model, do-ocracy objects, non-profit lock-in, and a comprehensive removal framework. It was architecturally sound and carefully drafted.
+
+**Why this was set aside:** It was produced without sufficient broader discussion. Circulating a finished AoA with a 3-day review window is not consensus-building. The substance may be right, but the process was wrong. The custom draft remains in git history as a reference implementation — its provisions can be reinstated once the community has discussed them via this Design Document.
+
+### 8.3 Operate as an unincorporated association
+
+The simplest possible structure: no company registration, no AoA, no statutory filings. Just a group of people sharing a space and splitting costs.
+
+**Why this was ruled out:** No legal entity means no lease in the association's own name (someone must sign personally), no bank account in the association's name, and personal liability for debts and obligations. A commercial landlord will not lease to an unincorporated group. This model works for small clubs that meet in someone's living room, not for a space with a commercial lease, insurance, and equipment worth tens of thousands.
+
+### 8.4 Become a formal charitable entity (s.88)
+
+Register as a charity under section 88 of the Inland Revenue Ordinance. This would bring tax exemptions, donation receipts for sponsors, and enhanced public trust.
+
+**Why this is premature:** s.88 registration is a separate, lengthy process with its own requirements — including IRD-approved objects, a governance structure acceptable to the IRD, and ongoing compliance obligations. The previous draft AoA's unified Member/Director model was flagged by a company secretary consultant as incompatible with s.88 (the IRD views total self-dealing as disqualifying). We can design the AoA to not preclude future s.88 application, but pursuing it now would delay everything else. This is a "version 2" goal.
+
+### 8.5 Separate operating company + community association
+
+A two-entity structure: one company (limited by shares or guarantee) holds the lease, the bank account, and employs any staff; a separate unincorporated association or club represents the community and governs use of the space. The company could be a simple, conventional entity with minimal governance complexity, while the association handles all the do-ocracy, membership, and community decisions.
+
+**Why this was not pursued:** Adds significant administrative overhead — two sets of accounts, two AGMs, inter-entity agreements. For a space of DSL's current scale (one premises, modest revenue, small core team), this doubles the paperwork for marginal benefit. However, this model is common in larger organisations (e.g., a charity with a trading subsidiary) and could be revisited if DSL grows significantly or pursues s.88 status. Currently over-engineered.
 
 ---
 
