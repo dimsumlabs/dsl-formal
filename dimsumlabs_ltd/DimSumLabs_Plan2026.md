@@ -19,17 +19,19 @@ The AoA must be adopted and filed with the Companies Registry within a reasonabl
 
 ## 2. Timeline
 
+*The timeline assumes a certain process, which can an should change based on the community's input. The rationale for having the timeline up front is to convey a sense of urgency. Without a new entity, we cannot officially do many things that an established organization can do, such as bank accounts, payments, which are crucial for our operations if we were to expand.*
+
 | Milestone | Target Date | Owner |
 |-----------|-------------|-------|
-| **Design Document circulated for discussion** | 13 June 2026 | Jay |
+| **Design Document circulated for discussion** | 14 June 2026 | Jay |
+| **First community meeting to discuss decision decisions** | 14 June 2026 | DSL Team |
 | **Community meeting to ratify design decisions** | Late June 2026 | DSL Team |
-| **Lease signed (Code and Make or renamed entity)** | End of June 2026 | DSL Directors |
-| **AoA first draft (from Model Articles baseline)** | Early July 2026 | Jay / Legal |
-| **AoA adopted by Special Resolution** | Mid-July 2026 | DSL Members |
-| **AoA filed with Companies Registry** | Mid-July 2026 | Company Secretary |
-| **Company name change applied** | July 2026 | Company Secretary |
-| **By-laws drafting committee formed** | Late June 2026 | DSL Team |
-| **By-laws first draft** | August 2026 | By-laws Committee |
+| **Lease signed (Code and Make or renamed entity)** | End of June 2026 | Code and Make Directors or delegates / new entity Directors |
+| **AoA first draft (from Model Articles baseline)** | Late June 2026 | DSL Team |
+| **AoA adopted by a reasonable group of Club Members or Special Resolution of Code and Make** | Mid-July 2026 | DSL Members |
+| **AoA filed with Companies Registry** | Late-July 2026 | Company Secretary |
+| **By-laws first draft** | Mid June 2026 | DSL Team |
+| **By-laws ongoing working meetings** | Mid June-Mid September 2026 | DSL Team |
 | **By-laws adopted** | Mid-September 2026 | DSL Members |
 
 ---
