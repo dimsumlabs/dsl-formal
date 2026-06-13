@@ -21,7 +21,7 @@ The AoA must be adopted and filed with the Companies Registry within a reasonabl
 
 *The timeline assumes a certain process, which can and should change based on the community's input. The rationale for having the timeline up front is to convey a sense of urgency. Without a new entity, we cannot officially do many things that an established organization can do, such as bank accounts, payments, which are crucial for our operations if we were to expand.*
 
-**Decision-making:** Pending formal adoption of the AoA, decisions are made by consensus of those who show up to DSL meetings. "DSL Team" in the timeline above means whoever actively participates in the reboot process. Once the AoA is adopted, statutory decisions follow the voting procedures defined therein; operational decisions follow the By-laws. Until then: show up, have a say.
+**Decision-making:** Pending formal adoption of the AoA, decisions are made by consensus of those who show up to DSL meetings. "DSL Team" in the timeline below means whoever actively participates in the reboot process. Once the AoA is adopted, statutory decisions follow the voting procedures defined therein; operational decisions follow the By-laws. Until then: show up, have a say.
 
 | Milestone | Target Date | Owner |
 |-----------|-------------|-------|
@@ -127,15 +127,15 @@ The governance framework is a two-document system:
 │   Resolution. Living document.)      │
 │                                      │
 │  • Club Member tiers, dues, access   │
-│  • Code of conduct                  │
-│  • Space usage rules                │
+│  • Code of conduct                   │
+│  • Space usage rules                 │
 │  • Do-ocracy roles & responsibilities│
-│  • Financial policies & budgets     │
+│  • Financial policies & budgets      │
 │  • Project storage & access control  │
-│  • Gridlock resolution procedures   │
-│  • Community meeting formats        │
-│  • Equipment & tool policies        │
-│  • Guest & visitor policies         │
+│  • Gridlock resolution procedures    │
+│  • Community meeting formats         │
+│  • Equipment & tool policies         │
+│  • Guest & visitor policies          │
 └──────────────────────────────────────┘
 ```
 
