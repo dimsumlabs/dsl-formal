@@ -11,26 +11,45 @@
 
 To design the constitutional and operational governance framework for the relaunch of Dim Sum Labs as a Hong Kong-registered Company Limited by Guarantee, codified in two outputs: the **Articles of Association (AoA)** — the statutory "legal code" — and the **By-laws** — the operational "community code."
 
-The AoA must be adopted and filed with the Companies Registry within **1 month** (target: mid-July 2026). The By-laws, being a living document for community operations, should be adopted within **3 months** (target: mid-September 2026).
+The AoA must be adopted and filed with the Companies Registry within a reasonable time frame to enable all that requires that to operate, such as bank accounts and payments. The By-laws, being a living document for community operations, should be adopted after the AoA. See section 2 (Timeline) immediately below.
 
 ---
 
-## 2. Background
+## 2. Timeline
 
-### 2.1 The Current Entity
+*This section is placed prominently upfront to signal that this document is about getting things done, not endless debate. Deadlines focus the mind. If a design decision is blocking progress, escalate it — don't let it stall the timeline.*
+
+| Milestone | Target Date | Owner |
+|-----------|-------------|-------|
+| **Design Document circulated for discussion** | 13 June 2026 | Jay |
+| **Community meeting to ratify design decisions** | Late June 2026 | DSL Team |
+| **Lease signed (Code and Make or renamed entity)** | End of June 2026 | DSL Directors |
+| **AoA first draft (from Model Articles baseline)** | Early July 2026 | Jay / Legal |
+| **AoA adopted by Special Resolution** | Mid-July 2026 | DSL Members |
+| **AoA filed with Companies Registry** | Mid-July 2026 | Company Secretary |
+| **Company name change applied** | July 2026 | Company Secretary |
+| **By-laws drafting committee formed** | Late June 2026 | DSL Team |
+| **By-laws first draft** | August 2026 | By-laws Committee |
+| **By-laws adopted** | Mid-September 2026 | DSL Members |
+
+---
+
+## 3. Background
+
+### 3.1 The Current Entity
 
 Dim Sum Labs has historically operated under **Code and Make Limited** (CR No. 2722724), a Company Limited by Guarantee incorporated on 16 July 2018. Code and Make currently holds the lease, bank accounts, and statutory standing. Its AoA is the standard Model Articles under Cap. 622 — generic boilerplate with separate Director and Member classes, director remuneration permitted, no objects clause, and no non-profit asset lock.
 
-### 2.2 The Imperative to Revamp
+### 3.2 The Imperative to Revamp
 
 In 2025–2026, the DSL community initiated a rebooting effort with the following drivers:
 
-1. **Lease renewal:** The space lease is up for renewal. The landlord requires a legally sound entity as tenant. We intend to sign with Code and Make Limited now, then change the company name to **Dim Sum Labs Social Club Limited** (or similar) once the new AoA is adopted.
+1. **Lease renewal:** The space lease is up for renewal by the end of June 2026. The landlord requires a legally sound entity as tenant. We intend to sign with Code and Make Limited now, then change the company name to **Dim Sum Labs Social Club Limited** (or similar) once the new AoA is adopted. That said, if we *can* get the new Articles of Association done in time before the end of June 2026, we can sign as the new entity, saving some additional cost of stamp duty.
 2. **Governance clarity:** The old AoA treats Members and Directors as separate classes with no philosophical framework. The community operates as a do-ocracy in practice, but this is not reflected in any constitutional document.
 3. **Non-profit integrity:** The old AoA lacks an objects clause, income application restrictions, and a dissolution asset lock — all essential for IRD s.88 charitable status and for community trust that the space cannot be privatised.
 4. **Community input:** The broader DSL community (including non-Director participants) needs a formal voice, but should not bear statutory liability simply for paying dues and using the space.
 
-### 2.3 Previous Work and Course Correction
+### 3.3 Previous Work and Course Correction
 
 An initial draft AoA was prepared (February–June 2026) that introduced a unified Member/Director model, a two-tier Club Member structure, non-profit lock-in, do-ocracy objects, and a comprehensive Director removal framework. This draft represented significant architectural work, but was produced in a focused, narrow manner — optimising for getting the AoA done quickly to meet the lease deadline — without sufficient broader discussion with all stakeholders about the **philosophy and long-term vision** for how Dim Sum Labs should be run.
 
@@ -42,7 +61,7 @@ On 13 June 2026, the core team (Jay, Iulian, Japheth) met and agreed:
 
 ---
 
-## 3. Goals
+## 4. Goals
 
 | # | Goal | Priority |
 |---|------|----------|
@@ -57,7 +76,7 @@ On 13 June 2026, the core team (Jay, Iulian, Japheth) met and agreed:
 
 ---
 
-## 4. Non-Goals
+## 5. Non-Goals
 
 - **Not** a charitable (s.88) registration — the entity is a non-profit CLG, not an IRD-approved charity (though the AoA should not preclude future s.88 application).
 - **Not** a tradable or investor-backed entity — there are no shares, no dividends, no exit.
@@ -66,9 +85,9 @@ On 13 June 2026, the core team (Jay, Iulian, Japheth) met and agreed:
 
 ---
 
-## 5. Design
+## 6. Design
 
-### 5.1 Architecture Overview
+### 6.1 Architecture Overview
 
 The governance framework is a two-document system:
 
@@ -112,7 +131,7 @@ The governance framework is a two-document system:
 └──────────────────────────────────────┘
 ```
 
-### 5.2 Key Design Decisions
+### 6.2 Key Design Decisions
 
 #### Decision 1: Separate Member and Director classes vs. Unified
 
@@ -170,7 +189,7 @@ The Model Articles allow anyone to become a Member by application approved by Di
 
 ---
 
-## 6. Alternatives Considered
+## 7. Alternatives Considered
 
 | Alternative | Evaluation |
 |-------------|-----------|
@@ -182,7 +201,7 @@ The Model Articles allow anyone to become a Member by application approved by Di
 
 ---
 
-## 7. Risks and Mitigations
+## 8. Risks and Mitigations
 
 | Risk | Severity | Mitigation |
 |------|----------|-----------|
@@ -191,23 +210,6 @@ The Model Articles allow anyone to become a Member by application approved by Di
 | **By-laws never get written (AoA-only governance)** | Medium | Set 3-month hard deadline. Appoint By-laws drafting committee. |
 | **Name change rejected by Companies Registry** | Low | Pre-clear with CR. Have backup names. |
 | **Future s.88 application blocked by AoA wording** | Medium | Include standard income/dissolution clauses compliant with IRD requirements. |
-
----
-
-## 8. Timeline
-
-| Milestone | Target Date | Owner |
-|-----------|-------------|-------|
-| **Design Document circulated for discussion** | 13 June 2026 | Jay |
-| **Community meeting to ratify design decisions** | Late June 2026 | DSL Team |
-| **AoA first draft (from Model Articles baseline)** | Early July 2026 | Jay / Legal |
-| **AoA adopted by Special Resolution** | Mid-July 2026 | DSL Members |
-| **AoA filed with Companies Registry** | Mid-July 2026 | Company Secretary |
-| **Company name change applied** | July 2026 | Company Secretary |
-| **Lease signed (Code and Make or renamed entity)** | End of June 2026 | DSL Directors |
-| **By-laws drafting committee formed** | Late June 2026 | DSL Team |
-| **By-laws first draft** | August 2026 | By-laws Committee |
-| **By-laws adopted** | Mid-September 2026 | DSL Members |
 
 ---
 
