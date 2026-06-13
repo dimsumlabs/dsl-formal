@@ -19,15 +19,19 @@ The AoA must be adopted and filed with the Companies Registry within a reasonabl
 
 ## 2. Timeline
 
-*The timeline assumes a certain process, which can an should change based on the community's input. The rationale for having the timeline up front is to convey a sense of urgency. Without a new entity, we cannot officially do many things that an established organization can do, such as bank accounts, payments, which are crucial for our operations if we were to expand.*
+*The timeline assumes a certain process, which can and should change based on the community's input. The rationale for having the timeline up front is to convey a sense of urgency. Without a new entity, we cannot officially do many things that an established organization can do, such as bank accounts, payments, which are crucial for our operations if we were to expand.*
+
+**Decision-making:** Pending formal adoption of the AoA, decisions are made by consensus of those who show up to DSL meetings. "DSL Team" in the timeline above means whoever actively participates in the reboot process. Once the AoA is adopted, statutory decisions follow the voting procedures defined therein; operational decisions follow the By-laws. Until then: show up, have a say.
 
 | Milestone | Target Date | Owner |
 |-----------|-------------|-------|
 | **Design Document circulated for discussion** | 14 June 2026 | Jay |
 | **First community meeting to discuss decision decisions** | 14 June 2026 | DSL Team |
 | **Community meeting to ratify design decisions** | Late June 2026 | DSL Team |
+| **Director liability explainer published** | Late June 2026 | DSL Team |
 | **Lease signed (Code and Make or renamed entity)** | End of June 2026 | Code and Make Directors or delegates / new entity Directors |
 | **AoA first draft (from Model Articles baseline)** | Late June 2026 | DSL Team |
+| **AoA reviewed by HK company lawyer** | Early July 2026 | DSL Team |
 | **AoA adopted by a reasonable group of Club Members or Special Resolution of Code and Make** | Mid-July 2026 | DSL Members |
 | **AoA filed with Companies Registry** | Late-July 2026 | Company Secretary |
 | **By-laws first draft** | Mid June 2026 | DSL Team |
@@ -50,6 +54,7 @@ In 2025–2026, the DSL community initiated a rebooting effort with the followin
 2. **Governance clarity:** The old AoA treats Members and Directors as separate classes with no philosophical framework. The community operates as a do-ocracy in practice, but this is not reflected in any constitutional document.
 3. **Non-profit integrity:** The old AoA lacks an objects clause, income application restrictions, and a dissolution asset lock — all essential for IRD s.88 charitable status and for community trust that the space cannot be privatised.
 4. **Community input:** The broader DSL community (including non-Director participants) needs a formal voice, but should not bear statutory liability simply for paying dues and using the space.
+5. **Informed consent:** Director liability under Hong Kong law is real and extends beyond the HKD 100 guarantee. Directors are legally responsible for the conduct of the company. People considering directorship deserve a plain-language explainer of what they are signing up for, so decisions are informed, not just enthusiastic. See milestone: "Director liability explainer."
 
 ### 3.3 Previous Work and Course Correction
 
@@ -75,6 +80,7 @@ On 13 June 2026, the core team (Jay, Iulian, Japheth) met and agreed:
 | G6 | Democratic accountability: Directors can be appointed and removed by the community through clear, fair processes | P1 |
 | G7 | The AoA should be minimal — only what is statutorily required or constitutionally essential. The By-laws carry everything else. | P2 |
 | G8 | An entity name that reflects the community ("Dim Sum Labs Social Club Limited" or similar) | P2 |
+| G9 | Club Members must have a meaningful voice — the entity must represent its community, not just its directors | P1 |
 
 ---
 
@@ -200,6 +206,7 @@ The Model Articles allow anyone to become a Member by application approved by Di
 | **Operate as an unincorporated association** | Simplest but no legal entity for lease/banking. Directors personally liable. Rejected. |
 | **Become a charitable trust** | Heavy regulatory overhead. Premature. |
 | **Separate operating company + community association** | Over-engineered for current scale. Rejected. |
+| **Draft By-laws first, derive AoA from them** | Proposed by Japheth. Pro: ensures the legal structure serves the community, not vice versa. Con: delays statutory filing (the AoA is the prerequisite for bank accounts, name change, etc.). Partially adopted: By-laws drafting starts concurrently with AoA re-drafting; the AoA should be informed by By-laws discussions, not written in isolation. |
 
 ---
 
