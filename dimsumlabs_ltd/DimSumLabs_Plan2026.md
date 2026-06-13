@@ -110,7 +110,7 @@ This governance design project is complete when:
 
 The AoA is a defined deliverable — 57 articles from the Model Articles baseline, amended with the design decisions from this document. It is done when it's filed.
 
-The By-laws are a living document — amendable by Ordinary Resolution, expected to evolve. They will never be "perfect." The definition of done for the initial By-laws is:
+The By-laws are a living document — amended through a lightweight community-driven process (not a General Meeting or Ordinary Resolution). They will never be "perfect." The definition of done for the initial By-laws is:
 
 > **The initial By-laws comprehensively codify all known existing practices of the space, and cover every operational domain listed in the Architecture (section 7.1).**
 
@@ -219,27 +219,44 @@ Under Hong Kong company law, Directors manage the company and Members are its st
 
 **Recommendation:** The team should choose between Model B and Model C. The previous draft chose Model C. This document does not prescribe the answer — it frames the choice, with Model A clearly marked as unacceptable.
 
-#### Decision 2: What goes in the AoA vs. By-laws
+#### Decision 2: What goes in the AoA vs. By-laws — and how each is changed
 
-The AoA should contain only what is **constitutionally necessary**: things that should require a 75% Special Resolution to change. Everything else goes in the By-laws, which can be amended by Ordinary Resolution (simple majority) or even by community consensus mechanisms.
+The AoA should contain only what is **constitutionally necessary**: things that should require the highest bar to change (a Special Resolution — 75% of Statutory Members at a General Meeting). Everything else goes in the By-laws.
 
-| Matter | AoA | By-laws |
-|--------|-----|---------|
-| Company name | ✓ | |
-| Objects / purpose | ✓ | |
-| Non-profit income lock | ✓ | |
-| Dissolution asset lock | ✓ | |
-| Director appointment/removal mechanics | ✓ | |
-| Director liability & indemnity | ✓ | |
-| Statutory Member definition & rights | ✓ | |
-| AGM/EGM requirements | ✓ | |
-| Quorum & voting thresholds | ✓ | |
-| Club Member tiers & dues | | ✓ |
-| Code of conduct | | ✓ |
-| Space access rules | | ✓ |
-| Do-ocracy roles | | ✓ |
-| Financial policies | | ✓ |
-| Equipment policies | | ✓ |
+By-laws are changed through a **lightweight community-driven process** — not a General Meeting or Ordinary Resolution. Club Members vote on By-laws changes. The exact process (consensus, simple majority, quorum requirements) is defined in the By-laws themselves. Changing a space rule should not require calling an EGM.
+
+This creates a three-tier decision-making framework:
+
+| Tier | Mechanism | Threshold | Scope | Examples |
+|------|-----------|-----------|-------|----------|
+| **Constitutional** | Special Resolution at General Meeting | ≥75% of Statutory Members | AoA amendments, company name, objects, winding up | Changing the purpose clause; renaming the company |
+| **Statutory** | Ordinary Resolution at General Meeting | >50% of Statutory Members | Matters the Ordinance requires Members to decide | Appointing/removing Directors; approving accounts; appointing auditors; director remuneration |
+| **Operational** | Community-driven process (defined in By-laws) | Defined in By-laws (e.g., consensus, simple majority of Club Members) | By-laws amendments and day-to-day operations | Changing membership dues; updating code of conduct; equipment policies; closing-up rules |
+
+The key design principle: **the bar to change something should match its impact.** Constitutional changes (AoA) require a high bar because they affect the entity's fundamental nature. Statutory governance (Director appointments, accounts) requires a General Meeting because the Ordinance says so. Operational changes (space rules, dues, By-laws) should be lightweight — the community should be able to adapt quickly without formal meetings.
+
+The following table shows what goes where, now with the amendment mechanism included:
+
+| Matter | Location | Amended by |
+|--------|----------|-----------|
+| Company name | AoA | Special Resolution |
+| Objects / purpose | AoA | Special Resolution |
+| Non-profit income lock | AoA | Special Resolution |
+| Dissolution asset lock | AoA | Special Resolution |
+| Director appointment/removal mechanics | AoA | Special Resolution (mechanics); Ordinary Resolution (who fills the seats) |
+| Director liability & indemnity | AoA | Special Resolution |
+| Statutory Member definition & rights | AoA | Special Resolution |
+| AGM/EGM requirements | AoA | Special Resolution |
+| Quorum & voting thresholds | AoA | Special Resolution |
+| Club Member tiers & dues | By-laws | Community process |
+| Code of conduct | By-laws | Community process |
+| Space access rules | By-laws | Community process |
+| Do-ocracy roles | By-laws | Community process |
+| Financial policies | By-laws | Community process |
+| Equipment policies | By-laws | Community process |
+| By-laws amendment process itself | By-laws | Community process |
+
+*Note: The Ordinances requires certain matters (such as Directors' remuneration under Article 24 of the Model Articles) to be determined by the Company at a General Meeting. These defaults can be overridden or narrowed in the AoA, but the AoA cannot eliminate the statutory requirement for a General Meeting where the Ordinance mandates one.*
 
 #### Decision 3: Name of the entity
 
@@ -286,9 +303,9 @@ The Model Articles allow anyone to become a Statutory Member by application appr
 2. **Member structure:** Model A (separate — rejected as unfit), Model B (overlap: Directors must be Statutory Members + Club Members, Statutory Members can exceed Directors), or Model C (unified: Statutory Member = Director)?
 3. **Director remuneration:** Prohibited or permitted by resolution?
 4. **Minimum Director count:** 2 or 3 or more?
-5. **Club Member voting:** Should Club Members have any formal voting rights (e.g., for By-laws amendments, Director elections), or are they purely operational participants?
+5. **Club Member voting on By-laws:** What process should be used for By-laws amendments? Consensus? Simple majority vote of Club Members? Quorum requirements? (The principle is settled: By-laws changes are a community-driven process, not a General Meeting. The specifics need to be designed.)
 6. **Director term limits:** Fixed terms (e.g., 2 years) or indefinite until resignation/removal?
-7. **Consensus vs. voting:** When should the By-laws prescribe consensus processes vs. formal voting for operational decisions?
+7. **Operational consensus vs. voting:** Beyond By-laws amendments, how should day-to-day operational decisions be made? Consensus-seeking with fallback voting? Working group autonomy? When should something be escalated to a community vote?
 8. **Membership fees:** Should the AoA specify the guarantee amount (currently HKD 100) or leave it flexible?
 9. **Physical registered office:** Current address?
 
@@ -309,7 +326,7 @@ The AoA defines two statutory roles (Directors and Members) and the By-laws defi
 The key principle across all models: Club Members alone do not carry statutory liability. The By-laws define their participation rights.
 
 ### Minimalist AoA
-The AoA should contain only what must be in a statutory document — the things that should require a high bar (Special Resolution, 75%) to change. The By-laws handle everything else, with a lower bar (Ordinary Resolution, >50%) for amendments.
+The AoA should contain only what must be in a statutory document — the things that should require a high bar (Special Resolution, 75%) to change. The By-laws handle everything else, amended through a lightweight community-driven process (not a General Meeting). See Decision 2 for the full three-tier framework.
 
 ---
 
