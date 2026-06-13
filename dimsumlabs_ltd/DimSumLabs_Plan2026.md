@@ -305,9 +305,17 @@ The Model Articles allow anyone to become a Statutory Member by application appr
 
 ### 8.1 Keep the existing Code and Make entity and fix it
 
-Rather than forming a new company, we could keep Code and Make Limited (CR No. 2722724), recuse Philip Paeps as director, appoint new directors (Jay, Nigel, others), and amend its AoA to whatever we want. The existing entity already holds the lease, the bank account, and the statutory standing.
+Rather than forming a new company, we could keep Code and Make Limited (CR No. 2722724), recuse Philip Paeps as director, appoint new directors (Jay, Nigel, others), and amend its AoA to whatever we want. The existing entity already holds the lease — that's the one asset worth inheriting.
 
-**Why this was ruled out:** Code and Make has accumulated significant paperwork rot — audits not done, tax filings not submitted, annual returns possibly outstanding. Taking over this entity means inheriting its compliance liabilities. Resolving these could take months and cost more than forming a new company. Everyone involved (Philip, Jay, Iulian, Nigel) agreed this is not worth the burden. A clean start is preferable.
+**Why this was ruled out:** Three compounding problems:
+
+1. **No bank account.** Code and Make's directors are foreign nationals and have been unable to open a Hong Kong bank account. An entity with no bank account cannot pay rent, receive dues, or function financially. While a new director (Nigel, a Hong Kong resident) could potentially open one, this requires becoming a director of Code and Make — which Nigel does not want to do, for the reasons below.
+
+2. **Paperwork rot.** Audits not done, tax filings not submitted, annual returns possibly outstanding. Taking over this entity means inheriting its compliance liabilities. Resolving these could take months and cost more than forming a new company.
+
+3. **No one wants the keys to a broken machine.** Philip wants out. The incoming team wants a clean start, not a fix-up job with unknown liabilities.
+
+Everyone involved (Philip, Jay, Iulian, Nigel) agreed this is not worth it. A clean start is strongly preferable.
 
 ### 8.2 Adopt the previous custom AoA draft as-is
 
