@@ -116,10 +116,10 @@ The By-laws are a living document — amendable by Ordinary Resolution, expected
 
 This means:
 
-- **Membership:** Tiers, dues, admission, good-standing criteria, termination — as currently practiced or as explicitly designed.
+- **Club Membership:** Tiers, dues, admission, good-standing criteria, termination — as currently practiced or as explicitly designed.
+- **Do-ocracy roles:** Working groups, project leads, hackjam hosts — formalized from existing informal practice.
 - **Code of conduct:** Existing community norms, written down.
 - **Space access:** Keys, hours, guest policies — what we already do.
-- **Do-ocracy roles:** Working groups, project leads, hackjam hosts — formalized from existing informal practice.
 - **Financial policies:** Budgeting, reimbursements, bank signatories — codifying what we know.
 - **Project storage:** Access control, duration limits — practices already discussed and partially implemented.
 - **Gridlock resolution:** What happens when consensus fails — enough to prevent deadlock.
@@ -182,25 +182,42 @@ The governance framework is a two-document system:
 
 ### 7.2 Key Design Decisions
 
-#### Decision 1: Separate Member and Director classes vs. Unified
+#### Decision 1: Relationship between Directors, Members, and Club Members
 
-We must decide between two models:
+Under Hong Kong company law, Directors manage the company and Members are its stakeholders (analogous to shareholders). Club Members are a DSL concept — dues-paying community participants. The relationship between these three roles is the most fundamental design decision. We must choose between three models:
 
-**Model A: Separate (old Code and Make model)**
-- Members can join by application. Directors are appointed separately.
-- Many Members, few Directors.
-- Members have voting rights but no management responsibility.
-- Directors manage, Members oversee.
+**Model A: Complete separation (current Code and Make AoA)**
+- Directors can be complete outsiders — no requirement to be a Member or Club Member.
+- Members join by application approved by Directors; no requirement to be Club Members or Directors.
+- Club Members are not recognised in the AoA at all.
+- Result: a Director who has never set foot in the space can control the company. Members can be passive names on a register. The community has no constitutional standing.
 
-**Model B: Unified (previous draft model)**
-- Every statutory Member IS a Director, and vice versa.
+**Model B: Overlap with broader membership (middle ground)**
+- Every Director MUST be a Statutory Member and a Club Member. No outsiders.
+- Statutory Members can be more numerous than Directors. Being a Member gives you voting rights at General Meetings without carrying full director liability.
+- Directors are drawn from the Member pool.
+- Club Members (dues-paying community) can become Statutory Members without becoming Directors.
+- Result: Directors are accountable to a broader Member base. Community members can have a statutory voice (voting rights) without the legal burden of directorship.
+
+**Model C: Complete unification (previous draft)**
+- Every Statutory Member IS a Director, and every Director IS a Statutory Member.
 - The Register of Members = the list of Directors.
-- Small, committed governance core.
-- Club Members exist as a non-statutory operational tier.
+- Club Members are a separate non-statutory tier with no voting rights at General Meetings.
+- Result: Small, tight governance core. No passive stakeholders. But Club Members have no statutory voice — they participate through By-laws mechanisms or not at all.
 
-**Analysis:** Model A is the default under the Model Articles. It works well for large membership organisations where Members are a broad governance base and Directors are an executive subset. Model B is purpose-built for a hackerspace: it ensures those who carry the legal guarantee (Members) are also those who manage the company (Directors), eliminating two-class governance. The trade-off is that Model B concentrates statutory power in a smaller group.
+| | Model A (current) | Model B (overlap) | Model C (unified) |
+|---|---|---|---|
+| **Directors must be Members** | No | Yes | Yes |
+| **Directors must be Club Members** | No | Yes | Yes |
+| **Members can exceed Directors** | Yes | Yes | No |
+| **Club Members can be Members** | N/A | Yes | No (separate tier) |
+| **Outsider directors possible** | Yes | No | No |
+| **Statutory voting base** | Unknown | Broader | Narrow |
+| **Director liability exposure** | Uncontrolled | Controlled | Controlled |
 
-**Recommendation:** The team should discuss this explicitly. The previous draft chose Model B. This document does not prescribe the answer — it frames the choice.
+**Analysis:** Model A is rejected as unfit for a community hackerspace — it allows complete outsiders to control the company. The real choice is between Model B and Model C. Model B gives more people a statutory voice (Member voting rights without director liability) but creates a two-class statutory structure. Model C is simpler — one statutory role — but concentrates power and excludes Club Members from statutory decision-making.
+
+**Recommendation:** The team should choose between Model B and Model C. The previous draft chose Model C. This document does not prescribe the answer — it frames the choice, with Model A clearly marked as unacceptable.
 
 #### Decision 2: What goes in the AoA vs. By-laws
 
@@ -256,7 +273,7 @@ The Model Articles allow anyone to become a Member by application approved by Di
 | Risk | Severity | Mitigation |
 |------|----------|-----------|
 | **Stakeholder disagreement delays AoA adoption beyond lease deadline** | High | Sign lease with existing Code and Make entity. AoA can be adopted after. |
-| **Unified Member/Director model leads to governance bottleneck (too few people)** | Medium | Set minimum Director count at 3+. By-laws allow broad community participation without statutory burden. |
+| **Unified Model (Model C) leads to governance bottleneck (too few people)** | Medium | Set minimum Director count at 3+. By-laws allow broad community participation without statutory burden. Model B avoids this risk by allowing Members to exceed Directors. |
 | **By-laws never get written (AoA-only governance)** | Medium | Set 3-month hard deadline. Appoint By-laws drafting committee. |
 | **Name change rejected by Companies Registry** | Low | Pre-clear with CR. Have backup names. |
 | **Future s.88 application blocked by AoA wording** | Medium | Include standard income/dissolution clauses compliant with IRD requirements. |
@@ -266,7 +283,7 @@ The Model Articles allow anyone to become a Member by application approved by Di
 ## 10. Open Questions
 
 1. **Name:** "Dim Sum Labs Social Club Limited" vs. "Dim Sum Labs Maker Club Limited" vs. something else?
-2. **Member structure:** Unified (Member = Director) or separate classes?
+2. **Member structure:** Model A (separate — rejected as unfit), Model B (overlap: Directors must be Members + Club Members, Members can exceed Directors), or Model C (unified: Member = Director)?
 3. **Director remuneration:** Prohibited or permitted by resolution?
 4. **Minimum Director count:** 2 or 3 or more?
 5. **Club Member voting:** Should Club Members have any formal voting rights (e.g., for By-laws amendments, Director elections), or are they purely operational participants?
@@ -283,8 +300,13 @@ The Model Articles allow anyone to become a Member by application approved by Di
 A governance philosophy where individuals who take on tasks and responsibilities naturally earn the authority to make decisions in those areas. "If you do it, you decide." The AoA provides the constitutional safety net; the By-laws codify do-ocracy in practice.
 
 ### Two-Tier Membership
-- **Statutory Members** = Directors: Bear the HKD 100 guarantee, vote at General Meetings, manage the Company under the Ordinance. Their names appear on the public register.
-- **Club Members** = Community participants: Pay dues, use the space, participate in do-ocracy, contribute to projects. They have NO statutory liability and NO automatic statutory voting rights. The By-laws define their participation rights.
+The AoA defines two statutory roles (Directors and Members) and the By-laws define a third operational role (Club Members). Depending on which model is chosen (Decision 1), these roles overlap differently:
+
+- **Directors:** Legally manage the Company, bear fiduciary duties under the Ordinance. Their names and details appear on the public register.
+- **Statutory Members:** Bear the HKD 100 guarantee and hold voting rights at General Meetings. Under Model C, this is the same group as Directors. Under Model B, Members can be a broader group.
+- **Club Members:** Community participants who pay dues, use the space, and participate in do-ocracy. Under Model C, they are a purely operational tier with no statutory rights. Under Model B, they can become Statutory Members (and thus voters) without becoming Directors.
+
+The key principle across all models: Club Members alone do not carry statutory liability. The By-laws define their participation rights.
 
 ### Minimalist AoA
 The AoA should contain only what must be in a statutory document — the things that should require a high bar (Special Resolution, 75%) to change. The By-laws handle everything else, with a lower bar (Ordinary Resolution, >50%) for amendments.
