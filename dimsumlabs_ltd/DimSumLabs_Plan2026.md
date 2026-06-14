@@ -1,8 +1,12 @@
-# Moved to Wiki for easier casual editing as this is not a deliverable
+# This File is Just a Pointer.
 
-## [Dim Sum Labs Relaunch: Governance Design Document Wiki](https://github.com/dimsumlabs/dsl-formal/wiki/Dim-Sum-Labs-Relaunch%3A-Governance-Design-Document)
+We've moved the Design Document to the Wiki for easier casual editing, as this is not a deliverable
 
-# The following is existig content as of 13 June 2026, to the removed. Do not edit
+Link: [Dim Sum Labs Relaunch: Governance Design Document Wiki](https://github.com/dimsumlabs/dsl-formal/wiki/Dim-Sum-Labs-Relaunch%3A-Governance-Design-Document)
+
+# --- Likely Obsolete Existing Content Below ---
+
+The following is existig content as of 13 June 2026, to the removed. Do not edit, or if you have done so, add the same edits to Wiki
 
 # Dim Sum Labs Relaunch: Governance Design Document
 
