@@ -1,9 +1,7 @@
 # Dim Sum Labs Relaunch: Governance Design Document
 
-**Author:** Japheth (Jay) / DSL Revamp Team
-**Status:** Draft
-**Date:** 13 June 2026
-**Version:** 0.1
+**Author:** DSL Revamp Team
+**Starting Date:** 13 June 2026
 
 *This document is a living plan. It will be updated as decisions are made and milestones are reached. Comments, disagreements, and alternative proposals are welcome.*
 
