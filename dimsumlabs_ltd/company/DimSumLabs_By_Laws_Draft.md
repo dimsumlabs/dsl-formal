@@ -68,10 +68,6 @@ Space at the DSL premises is limited. Project storage is available on a first-co
 *   **Removal of Items:**
     * TODO
 
-## Project storage
-
-TODO
-
 ## Events
 
 TODO (e.g. HackJam policy)
